@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Only visible for a moment while the app starts, before Compose draws. Its background
+      matches the app's light surface; values-night/themes.xml is the dark version, so
+      dark mode doesn't flash white on launch.
+    -->
+    <style name="Theme.GreetingCard" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/launch_background</item>
+    </style>
+</resources>

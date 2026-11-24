@@ -1,0 +1,341 @@
+# Common whole foods for in-app search. Columns: FNDDS food code, name shown in the app, extra search words (| separated).
+# Names lead with the word people search for ("Egg, fried", not "Fried egg"). Order doesn't matter; the app ranks results.
+# Fruit
+63101000	Apple
+63101120	Applesauce, unsweetened
+63103010	Apricot
+63105010	Avocado	guacamole
+63107010	Banana
+63201010	Blackberries
+63203010	Blueberries
+63203600	Blueberries, frozen
+63109010	Cantaloupe	melon|rockmelon
+63115010	Cherries
+61100600	Clementine	mandarin|cutie
+63207010	Cranberries
+63116010	Dragon fruit	pitaya
+63119010	Fig
+63311000	Fruit salad
+63311170	Fruit cocktail, canned in juice
+61101010	Grapefruit
+63123000	Grapes
+63125010	Guava
+63127010	Honeydew melon	melon
+63126500	Kiwi
+61113010	Lemon
+61116010	Lime
+63126510	Lychee	litchi
+63129010	Mango
+63129050	Mango, frozen
+63311180	Mixed fruit, frozen
+63131010	Nectarine
+61119010	Orange
+63133010	Papaya
+63134010	Passion fruit
+63135010	Peach
+63135170	Peach, canned in juice
+63137010	Pear
+63137050	Pear, Asian
+63139010	Persimmon
+63141010	Pineapple
+63141170	Pineapple, canned in juice
+71905000	Plantain, ripe
+63143010	Plum
+63145010	Pomegranate
+63219000	Raspberries
+63219610	Raspberries, frozen
+63223020	Strawberries
+63223610	Strawberries, frozen
+61125010	Tangerine	mandarin
+63149010	Watermelon	melon
+# Dried fruit
+62104100	Apricots, dried
+62109100	Cranberries, dried	craisins
+62110100	Dates	medjool
+62113100	Figs, dried
+62114050	Mango, dried
+62122100	Prunes	dried plums
+62125100	Raisins
+# Juice (counts toward fruit)
+64104010	Apple juice
+64105400	Cranberry juice, 100%
+64116020	Grape juice
+61201020	Grapefruit juice
+61210000	Orange juice	oj
+64124020	Pineapple juice
+64126000	Pomegranate juice
+# Vegetables
+75100750	Artichoke
+75202011	Asparagus, cooked
+75100800	Asparagus, raw
+75101000	Bean sprouts
+75208011	Beets, cooked	beetroot
+75102500	Beets, raw	beetroot
+75122200	Bell pepper, red	capsicum|sweet pepper
+75122100	Bell pepper, green	capsicum|sweet pepper
+72201211	Broccoli, cooked
+72201212	Broccoli, frozen, cooked
+72201100	Broccoli, raw
+75209011	Brussels sprouts, cooked
+75102750	Brussels sprouts, raw
+75211020	Cabbage, cooked
+75103000	Cabbage, green, raw	coleslaw
+75105000	Cabbage, red, raw
+75104000	Cabbage, Chinese (bok choy, napa), raw	bok choy|pak choi|napa
+75210010	Cabbage, Chinese (bok choy, napa), cooked	bok choy|pak choi|napa
+73101010	Carrots, raw	baby carrots
+73102211	Carrots, cooked
+75107000	Cauliflower, raw
+75214011	Cauliflower, cooked
+75109000	Celery
+72104100	Chard	swiss chard
+75109550	Cilantro	coriander
+72107211	Collard greens, cooked	collards
+75216111	Corn, cooked	sweet corn|corn on the cob
+75216113	Corn, canned
+75216112	Corn, frozen
+75111000	Cucumber
+75111200	Eggplant, raw	aubergine
+75217010	Eggplant, cooked	aubergine
+75109010	Fennel
+75111500	Garlic
+75205021	Green beans, cooked	string beans
+75205023	Green beans, canned	string beans
+75101800	Green beans, raw	string beans
+75224022	Green peas, frozen, cooked	peas
+75224023	Green peas, canned	peas
+75117010	Green onions	scallions|spring onions
+75121000	Hot chili pepper	chili|chilli|jalapeno
+75111800	Jicama
+72119190	Kale, raw
+72119211	Kale, cooked
+75502520	Kimchi
+75113000	Lettuce, iceberg	iceberg
+75113080	Arugula	rocket
+72116000	Lettuce, romaine	romaine|cos
+75114000	Mixed salad greens	spring mix|salad
+75311012	Mixed vegetables, frozen	frozen vegetables
+75115000	Mushrooms, raw
+75219011	Mushrooms, cooked
+72122211	Mustard greens, cooked
+75220011	Okra, cooked
+75117020	Onion, raw
+75221011	Onion, cooked
+75119000	Parsley
+75306998	Peppers and onions, cooked	fajita vegetables
+71101000	Potato, baked
+71508001	Potato, baked, with skin
+71103010	Potato, boiled
+71104050	Potato, roasted
+73201013	Pumpkin, canned
+75125000	Radish
+75127500	Seaweed	nori|wakame
+75127750	Snow peas	snap peas|pea pods
+72125100	Spinach, raw
+72125211	Spinach, cooked
+72125212	Spinach, frozen, cooked
+75340010	Stir-fry vegetables
+75128000	Summer squash, yellow	yellow squash
+73403010	Sweet potato, baked	yam
+73405010	Sweet potato, boiled	yam
+74101000	Tomato	tomatoes
+74201003	Tomatoes, canned
+75129000	Turnip
+72128211	Turnip greens, cooked
+72130100	Watercress
+73303010	Winter squash, cooked	butternut|acorn squash
+75128010	Zucchini	courgette|summer squash
+75233011	Zucchini, cooked	courgette|summer squash
+# Vegetable juice
+73105010	Carrot juice
+74301100	Tomato juice
+74303000	Vegetable juice	v8
+# Beans, peas, lentils
+41102020	Black beans, cooked
+41102080	Black beans, canned
+41302020	Chickpeas, cooked	garbanzo
+41302080	Chickpeas, canned	garbanzo
+41420020	Edamame
+41205070	Hummus
+41106020	Kidney beans, cooked
+41106080	Kidney beans, canned
+41305000	Lentils, cooked
+75204012	Lima beans	butter beans
+41104020	Pinto beans, cooked
+41104080	Pinto beans, canned
+41201020	Baked beans, vegetarian
+41205040	Refried beans
+41107010	Soybeans, cooked
+41303000	Split peas, cooked
+41101120	White beans, cooked	cannellini|navy beans|great northern
+41101180	White beans, canned	cannellini|navy beans|great northern
+75223023	Black-eyed peas
+# Eggs
+31103010	Egg, hard-boiled	boiled egg|poached egg|eggs
+31105030	Egg, fried	fried egg|eggs
+32130070	Egg, scrambled	scrambled eggs|omelet|omelette|eggs
+31101010	Egg, raw	eggs
+31108110	Egg whites, cooked	egg white
+# Poultry
+24122131	Chicken breast, roasted (no skin)	grilled chicken|baked chicken
+24122171	Chicken breast, rotisserie (no skin)
+24152231	Chicken thigh, roasted (no skin)
+24142301	Chicken drumstick, roasted (no skin)	chicken leg
+24162130	Chicken wing, roasted	wings
+24198720	Chicken, ground	ground chicken
+24198570	Chicken, canned
+24201320	Turkey, roasted	turkey breast
+24207000	Turkey, ground	ground turkey
+25230780	Turkey, deli sliced	lunch meat|cold cuts
+24208500	Turkey bacon
+# Meat
+21500100	Beef, ground	ground beef|hamburger|mince
+21500310	Beef patty	hamburger|burger
+21101000	Beef steak	steak
+21103180	Beef, tenderloin	filet mignon|steak
+21102170	Beef, sirloin	steak
+21417100	Beef brisket	brisket
+21401000	Beef, roast	roast beef
+21602100	Beef jerky	jerky
+25231110	Roast beef, deli sliced	lunch meat|cold cuts
+22101020	Pork chop
+22210300	Pork tenderloin
+22002000	Pork, ground	ground pork
+22311000	Ham
+25230210	Ham, deli sliced	lunch meat|cold cuts
+22601040	Bacon
+22501010	Canadian bacon
+25221405	Sausage, pork	breakfast sausage
+25221830	Sausage, chicken or turkey
+23101000	Lamb chop
+23132000	Lamb, ground
+23326100	Bison
+# Fish and seafood
+26109120	Cod, baked	whitefish
+26137120	Salmon, baked	salmon
+26137180	Salmon, canned
+26158010	Tilapia, baked
+26153120	Tuna, cooked	ahi
+26155110	Tuna, canned	tuna fish
+26139180	Sardines, canned
+26121120	Mackerel
+26151120	Trout
+26118010	Halibut
+26319130	Shrimp, cooked	prawns
+26317130	Scallops
+26305160	Crab
+26311110	Lobster
+26313110	Mussels
+26303160	Clams
+26315100	Oysters, raw
+26213120	Calamari	squid
+27250520	Imitation crab	surimi|krab
+# Soy and meat alternatives
+41420010	Tofu	bean curd
+41440000	Textured vegetable protein	tvp
+41811890	Veggie burger	plant-based burger
+# Dairy
+11111000	Milk, whole
+11112110	Milk, 2%	reduced fat milk
+11112210	Milk, 1%	low fat milk
+11113000	Milk, skim	fat free milk|nonfat milk
+11115400	Kefir
+11320000	Soy milk
+11350020	Almond milk, unsweetened
+11370000	Coconut milk (drink)
+11360000	Rice milk
+11411100	Yogurt, plain whole milk
+11411300	Yogurt, plain nonfat
+11411400	Greek yogurt, plain whole milk	yoghurt
+11411420	Greek yogurt, plain nonfat	yoghurt
+11431000	Yogurt, fruit	yoghurt
+14104100	Cheese, cheddar
+14107030	Cheese, mozzarella	string cheese
+14104400	Cheese, feta
+14108020	Cheese, parmesan
+14109010	Cheese, swiss
+14108400	Cheese, provolone
+14410110	Cheese, American	cheese slice
+14104700	Cheese, goat	chevre
+14110050	Paneer
+14201010	Cottage cheese
+14201500	Ricotta
+14301010	Cream cheese
+12310100	Sour cream
+# Nuts and seeds
+42101130	Almonds
+42200500	Almond butter
+42104110	Cashews
+43108010	Chia seeds
+43104000	Flax seeds	flaxseed|linseed
+42107000	Hazelnuts	filberts
+42109100	Macadamia nuts
+42110120	Mixed nuts
+42111210	Peanuts
+42202000	Peanut butter	pb
+42112210	Pecans
+42113000	Pine nuts
+42114145	Pistachios
+43101150	Pumpkin seeds	pepitas
+43103000	Sesame seeds
+43102000	Sunflower seeds
+43103300	Tahini
+42116000	Walnuts
+42501000	Trail mix
+# Grains
+57602100	Oats, dry	rolled oats|oatmeal
+56203056	Oatmeal, cooked with water	porridge
+56203066	Oatmeal, cooked with milk	porridge
+56205008	Rice, white, cooked
+56205018	Rice, brown, cooked
+56205210	Rice, wild, cooked
+56204005	Quinoa, cooked
+56130000	Pasta, cooked	spaghetti|noodles|macaroni|penne
+56132990	Pasta, whole wheat, cooked	spaghetti|noodles
+56112000	Egg noodles, cooked	noodles
+56117090	Rice noodles, cooked	noodles|pho
+56207160	Couscous
+56207110	Bulgur
+56200410	Barley
+56200990	Grits
+51101000	Bread, white	toast
+51300110	Bread, whole wheat	toast
+51601020	Bread, multigrain	toast
+51133010	Bread, sourdough	toast
+51401010	Bread, rye
+51109100	Pita
+51108100	Naan
+51300175	Roti	chapati|chapatti
+51180010	Bagel
+51301750	Bagel, whole wheat
+51186010	English muffin
+52215100	Tortilla, corn
+52215200	Tortilla, flour
+52215260	Tortilla, whole wheat
+55101000	Pancakes
+57227000	Granola
+57123000	Cereal, O's (plain)	cheerios
+57134000	Cereal, corn flakes	cornflakes
+57207000	Cereal, bran flakes
+57417000	Cereal, shredded wheat
+54403010	Popcorn, air-popped
+# Fats and oils
+81101000	Butter
+81204000	Ghee
+82104000	Olive oil
+82101000	Vegetable oil
+82105500	Canola oil
+82101500	Coconut oil
+82107000	Sesame oil
+82108000	Soybean oil
+82108500	Sunflower oil
+82105000	Peanut oil
+81102020	Margarine
+83107000	Mayonnaise	mayo
+# Sweeteners
+91101010	Sugar	white sugar
+91102010	Brown sugar
+91302010	Honey
+91300100	Pancake syrup	maple syrup
+91302020	Agave
+91400000	Jam or jelly	jam|jelly|preserves

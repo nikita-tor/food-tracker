@@ -1,0 +1,178 @@
+# Olive Garden, from https://www.olivegarden.com/nutrition (fetched 2026-10-19 by fetch_menus.py)
+category	name	serving	calories	protein	fiber	sodium	addedSugars
+Appetizers	Calamari	1 order	670	24	2	1600	
+Appetizers	Fried Mozzarella	1 order	800	33	4	1990	
+Appetizers	Lasagna Fritta	1 order	1130	39	5	1800	
+Appetizers	Meatballs Parmigiana	1 order	1040	51	6	2800	
+Appetizers	Shrimp Fritto Misto	1 order	1280	41	9	5010	
+Appetizers	Spinach-Artichoke Dip with flatbread crisps	1 order	1160	33	7	2440	
+Appetizers	Stuffed Ziti Fritta	1 order	500	27	3	1040	
+Appetizers	Toasted Ravioli	1 order	650	25	4	1330	
+Appetizers	Spicy Alfredo dipping sauce	1 order	490	9	0	700	
+Appetizers	Spicy Alfredo dipping sauce (Large)	1 order	980	18	0	1400	
+Appetizers	Alfredo dipping sauce	1 order	440	8	0	600	
+Appetizers	Alfredo dipping sauce (Large)	1 order	870	15	0	1200	
+Appetizers	Five Cheese Marinara dipping sauce	1 order	200	5	1	650	
+Appetizers	Five Cheese Marinara dipping sauce (Large)	1 order	400	11	3	1300	
+Appetizers	Marinara dipping sauce	1 order	70	2	2	640	
+Appetizers	Marinara sipping sauce (Large)	1 order	150	4	4	1280	
+Soups, Salad & Breadsticks	Breadstick with garlic topping (1 ea.)	1 order	140	4	0	460	
+Soups, Salad & Breadsticks	Breadstick, plain (no garlic topping, 1 ea.)	1 order	130	4	1	280	
+Soups, Salad & Breadsticks	Chicken & Gnocchi Soup	1 order	230	11	1	1290	
+Soups, Salad & Breadsticks	Minestrone Soup	1 order	110	5	4	810	
+Soups, Salad & Breadsticks	Pasta Fagioli Soup	1 order	150	8	3	710	
+Soups, Salad & Breadsticks	Zuppa Toscana Soup	1 order	220	7	2	790	
+Soups, Salad & Breadsticks	Stellini Soup (Regional)	1 order	200	9	1	1240	
+Soups, Salad & Breadsticks	Salad with Signature Italian Dressing	1 order	150	3	2	770	
+Soups, Salad & Breadsticks	Salad without Dressing	1 order	70	2	2	250	
+Soups, Salad & Breadsticks	Italian Dressing (1 fl oz)	1 order	80	0	0	520	
+Soups, Salad & Breadsticks	Low-Fat Italian Dressing (1 fl oz)	1 order	30	0	0	410	
+Create Your Own Pasta	Fettuccine (Create Your Own Pasta)	1 order	350	12	3	10	
+Create Your Own Pasta	Angel Hair	1 order	350	12	3	10	
+Create Your Own Pasta	Bucatini	1 order	410	15	3	0	
+Create Your Own Pasta	Gluten-Free Rotini	1 order	380	9	5	260	
+Create Your Own Pasta	Rigatoni	1 order	440	14	3	10	
+Create Your Own Pasta	Spaghetti (Create Your Own Pasta)	1 order	340	12	3	10	
+Create Your Own Pasta	Spicy Alfredo Sauce	1 order	980	18	0	1400	
+Create Your Own Pasta	Alfredo Sauce (Create Your Own Pasta)	1 order	870	15	0	1200	
+Create Your Own Pasta	Creamy Mushroom Sauce	1 order	860	10	0	1090	
+Create Your Own Pasta	Five Cheese Marinara	1 order	400	11	3	1300	
+Create Your Own Pasta	Marinara	1 order	150	4	4	1280	
+Create Your Own Pasta	Meat Sauce (Create Your Own Pasta)	1 order	300	14	2	1040	
+Create Your Own Pasta	Crispy Shrimp Fritta	1 order	220	11	1	810	
+Create Your Own Pasta	Crispy Chicken Fritta	1 order	240	20	1	730	
+Create Your Own Pasta	Grilled Chicken	1 order	130	26	0	540	
+Create Your Own Pasta	Italian Sausage (2 Links)	1 order	470	27	0	1140	
+Create Your Own Pasta	Meatballs (3) (Create Your Own Pasta)	1 order	480	23	3	1060	
+Create Your Own Pasta	Sauteed Shrimp	1 order	170	33	0	410	
+Create Your Own Pasta	Broccoli	1 order	150	4	3	220	
+Lunch	Spicy Alfredo Fettuccine (Lunch)	1 order	1000	22	2	1060	
+Lunch	Cheese Ravioli with Marinara Sauce (Lunch)	1 order	440	25	3	1330	
+Lunch	Cheese Ravioli with Meat Sauce (Lunch)	1 order	500	29	2	1240	
+Lunch	Chicken Parmigiana (Lunch)	1 order	630	36	5	1970	
+Lunch	Eggplant Parmigiana (Lunch)	1 order	660	21	7	1540	
+Lunch	Fettuccine Alfredo (Lunch)	1 order	920	20	2	910	
+Lunch	Five Cheese Ziti al Forno (Lunch)	1 order	630	24	4	1220	
+Lunch	Lasagna Classico (Lunch)	1 order	500	29	3	1290	
+Lunch	Shrimp Scampi (Lunch)	1 order	460	20	4	1020	
+Lunch	Spaghetti with Marinara (Lunch)	1 order	370	11	5	970	
+Lunch	Spaghetti with Meat Sauce (Lunch)	1 order	480	19	3	790	
+Lunch	Spaghetti & Meatballs with Meat Sauce	1 order	800	35	5	1490	
+Lunch	Spaghetti & Meatballs with Marinara	1 order	690	27	6	1670	
+Lunch	Spaghetti with Meat Sauce & Italian Sausage	1 order	720	33	4	1360	
+Dinner	Spicy Alfredo Fettuccine (Dinner)	1 order	1330	30	3	1410	
+Dinner	Calabrian Steak & Shrimp Bucatini	1 order	1220	78	6	2960	
+Dinner	Calabrian Steak Bucatini	1 order	1130	59	6	2730	
+Dinner	Calabrian Shrimp Bucatini	1 order	1040	51	6	2160	
+Dinner	Creamy Mushroom Ravioli	1 order	980	24	6	1260	
+Dinner	Cheese Ravioli with Marinara Sauce (Dinner)	1 order	750	41	5	2370	
+Dinner	Cheese Ravioli with Meat Sauce (Dinner)	1 order	860	50	4	2190	
+Dinner	Chicken & Shrimp Carbonara	1 order	1370	64	3	2050	
+Dinner	Chicken Alfredo (with crispy chicken fritta)	1 order	1710	67	5	2670	
+Dinner	Chicken Alfredo (with grilled chicken)	1 order	1480	79	4	2290	
+Dinner	Chicken Parmigiana (Dinner)	1 order	1020	64	7	3300	
+Dinner	Chicken Scampi	1 order	1050	49	5	2470	
+Dinner	Chicken Tortelloni Alfredo	1 order	1980	112	5	3720	
+Dinner	Eggplant Parmigiana (Dinner)	1 order	1070	35	11	2440	
+Dinner	Fettuccine Alfredo (Dinner)	1 order	1220	27	3	1210	
+Dinner	Five Cheese Ziti al Forno (Dinner)	1 order	1170	46	6	2440	
+Dinner	Grilled Chicken Margherita	1 order	650	65	5	2120	
+Dinner	Herb-Grilled Salmon	1 order	610	45	4	1360	
+Dinner	Herb-Grilled Salmon Coho (Regional)	1 order	510	50	4	1020	
+Dinner	Lasagna Classico (Dinner)	1 order	940	54	6	2260	
+Dinner	Ravioli Carbonara	1 order	1390	53	3	2660	
+Dinner	Seafood Alfredo	1 order	1370	53	3	1690	
+Dinner	Shrimp Alfredo	1 order	1390	60	4	1620	
+Dinner	Shrimp Carbonara	1 order	1200	58	4	1710	
+Dinner	Shrimp Scampi (Dinner)	1 order	490	29	4	1120	
+Dinner	Spaghetti with Marinara (Dinner)	1 order	490	15	6	1290	
+Dinner	Spaghetti with Meat Sauce (Dinner)	1 order	640	26	4	1050	
+Dinner	Spaghetti with Meat Sauce & Meatballs (3)	1 order	1120	49	7	2110	
+Dinner	Spaghetti with Meat Sauce & Sausage (2)	1 order	1110	52	5	2190	
+Dinner	Steak Gorgonzola Alfredo	1 order	1580	74	5	2750	
+Dinner	Stuffed Chicken Marsala	1 order	1170	70	8	3020	
+Dinner	Tour of Italy	1 order	1550	72	7	3220	
+Dinner	6 oz. Sirloin	1 order	980	57	2	1840	
+Sides	Italian Sausage (2)	1 order	510	27	2	1460	
+Sides	Mashed Potatoes	1 order	200	4	3	580	
+Sides	Meatballs (3) (Sides)	1 order	520	24	4	1380	
+Sides	Parmesan Garlic Broccoli	1 order	150	5	3	450	
+Desserts	Pumpkin Cookie Butter Cheesecake	1 order	620	10	2	65	
+Desserts	Black Tie Mousse Cake	1 order	750	9	4	290	
+Desserts	Chocolate Lasagna	1 order	980	13	6	630	
+Desserts	Sicilian Cheesecake with Strawberry Topping	1 order	730	12	2	450	
+Desserts	Strawberry Cream Cake	1 order	540	9	2	370	
+Desserts	Tiramisu	1 order	470	6	0	125	
+Desserts	Warm Italian Doughnuts	1 order	810	20	6	510	
+Desserts	Mint candy (1 ea.)	1 order	25	0	0	0	
+Kids Menu	Fettuccine (Kids Menu)	1 order	220	7	2	5	
+Kids Menu	Small Shells	1 order	210	7	2	5	
+Kids Menu	Spaghetti (Kids Menu)	1 order	170	6	1	5	
+Kids Menu	Alfredo Sauce (Kids Menu)	1 order	440	8	0	600	
+Kids Menu	Meat Sauce (Kids Menu)	1 order	110	5	0	390	
+Kids Menu	Tomato Sauce	1 order	80	1	1	420	
+Kids Menu	Meatball	1 order	160	8	0	350	
+Kids Menu	Shrimp	1 order	45	10	0	130	
+Kids Menu	Cheese Ravioli	1 order	340	17	3	980	
+Kids Menu	Cheese Pizza	1 order	400	17	3	720	
+Kids Menu	Chicken Fingers	1 order	300	25	0	580	
+Kids Menu	Macaroni & Cheese	1 order	360	16	2	870	
+Kids Menu	Grapes	1 order	40	0	0	0	
+Kids Menu	French Fries	1 order	290	5	5	310	
+Kids Menu	Spaghetti with Tomato Sauce	1 order	180	5	2	290	
+Kids Menu	Milk, 1%	1 order	100	8	0	105	
+Kids Menu	Chocolate Milk, 1%	1 order	180	8	0	135	
+Kids Menu	Whole Chocolate Milk	1 order	210	8	2	150	
+Kids Menu	Raspberry Lemonade	1 order	110	0	0	10	
+Kids Menu	Juice, Apple	1 order	170	0	0	50	
+Kids Menu	Juice, Cranberry	1 order	180	0	0	50	
+Kids Menu	Juice, Orange	1 order	180	3	0	10	
+Kids Menu	Juice, Pineapple	1 order	200	1	0	5	
+Kids Menu	Smoothie, Strawberry	1 order	220	0	0	0	
+Kids Menu	Smoothie, Peach	1 order	240	0	0	10	
+Gluten Sensitive Menu	Salad without Croutons	1 order	110	2	2	670	
+Gluten Sensitive Menu	6 oz. Tuscan Sirloin	1 order	480	46	4	1680	
+Gluten Sensitive Menu	Grilled Chicken Parmigiana	1 order	810	75	7	3040	
+Gluten Sensitive Menu	Rotini Pasta with Marinara	1 order	530	13	8	1530	
+Gluten Sensitive Menu	Rotini Pasta with Meat Sauce	1 order	680	23	6	1300	
+Gluten Sensitive Menu	Kids Grilled Chicken with Rotini Pasta & Marinara	1 order	430	33	5	1310	
+Gluten Sensitive Menu	Kids Rotini Pasta with Marinara	1 order	260	6	4	770	
+Gluten Sensitive Menu	Kids Rotini Pasta with Meat Sauce	1 order	340	12	3	650	
+Drinks	OG's Old Fashioned	1 order	150	0	0	0	
+Drinks	Pineapple Coconut Margarita	1 order	300	0	1	15	
+Drinks	Frozen Strawberry-Mango Margarita	1 order	330	0	3	20	
+Drinks	Frozen Green Apple Margarita (where available)	1 order	390	0	3	30	
+Drinks	Strawberry Frose (where available)	1 order	260	0	1	15	
+Drinks	Italian Margarita	1 order	380	0	4	30	
+Drinks	Strawberry Limoncello Margarita	1 order	280	0	2	15	
+Drinks	Blue Capri	1 order	290	0	2	20	
+Drinks	Italian Rum Punch	1 order	320	0	3	30	
+Drinks	Sicilian Sunset	1 order	230	0	0	5	
+Drinks	Spiked Strawberry Lemonade	1 order	160	0	0	10	
+Drinks	Green Apple Moscato Sangria (Glass)	1 order	200	0	0	15	
+Drinks	Green Apple Moscato Sangria (Pitcher)	1 order	830	2	3	50	
+Drinks	Berry Sangria (Glass)	1 order	210	0	0	5	
+Drinks	Berry Sangria (Pitcher)	1 order	870	1	3	25	
+Drinks	Watermelon Moscato Sangria (Glass)	1 order	180	0	0	15	
+Drinks	Watermelon Moscato Sangria (Pitcher)	1 order	720	0	3	60	
+Drinks	Wine - Whites and Ros� - Glass	1 order	150	0	0	10	
+Drinks	Wine - Whites and Ros� - Grande Pour	1 order	220	0	0	15	
+Drinks	Wine - Whites and Ros� - Bottle	1 order	630	0	0	35	
+Drinks	Wine - Reds - Glass	1 order	160	0	0	0	
+Drinks	Wine - Reds - Grande Pour	1 order	230	0	0	0	
+Drinks	Wine - Reds - Bottle	1 order	660	0	0	0	
+Drinks	Wine - Sparkling Prosecco - Glass	1 order	160	0	0	10	
+Drinks	Beer - Light Draft (16 oz)	1 order	140	1	0	15	
+Drinks	Beer - Light Draft (22 oz)	1 order	190	2	0	20	
+Drinks	Beer - Regular Draft (16 oz)	1 order	230	3	0	5	
+Drinks	Beer - Regular Draft (22 oz)	1 order	310	4	0	5	
+Drinks	Beer - Bottle, Light	1 order	100	0	0	10	
+Drinks	Beer - Bottle, Regular	1 order	150	1	0	10	
+Drinks	Beer - Bottle, Angry Orchard Hard Cider	1 order	220	0	0	10	
+Drinks	Beer - Bottle, Non-Alcoholic	1 order	70	0	0	10	
+To Go Soups & Salad	Famous House Salad To Go	1 order	290	8	6	1380	
+To Go Soups & Salad	Chicken & Gnocchi (Per One Serving, Serves Two)	1 order	230	11	1	1290	
+To Go Soups & Salad	Minestrone (Per One Serving, Serves Two)	1 order	110	5	4	810	
+To Go Soups & Salad	Pasta Fagioli (Per One Serving, Serves Two)	1 order	150	8	3	710	
+To Go Soups & Salad	Zuppa Toscana (Per One Serving, Serves Two)	1 order	220	7	2	790	
+To Go Soups & Salad	Stellini Soup (Per One Serving, Serves Two)	1 order	200	9	1	1240	

@@ -1,0 +1,337 @@
+# IHOP, from https://www.ihop.com/en/nutrition/calculator (fetched 2026-10-19 by fetch_menus.py)
+category	name	serving	calories	protein	fiber	sodium	addedSugars
+Limited Time Offers	(4) Pumpkin Spice Pancakes	1 order	630	17	5	1950	
+Limited Time Offers	Build Your Combo - Pumpkin Spice Pancakes	1 order	550	11	5	1210	
+Limited Time Offers	French Toast Hot Chocolate	1 order	220	1	0	230	
+Limited Time Offers	Pumpkin Spice Milkshake	1 order	700	12	2	250	
+Limited Time Offers	Pumpkin Spice Pancake Tacos	1 order	510	10	2	910	
+Limited Time Offers	Stuffed French Toast BreakFEAST	1 order	960	34	4	2490	
+Pancakes	(3) Original Buttermilk Pancakes	1 order	460	13	3	1500	
+Pancakes	(4) Chocolate Chip Pancakes (with Buttermilk)	1 order	750	19	7	1940	
+Pancakes	(4) Chocolate Chocolate Chip Pancakes	1 order	760	20	9	1940	
+Pancakes	(4) Cinn-a-Stack Pancakes	1 order	860	17	6	2190	
+Pancakes	(4) Cupcake Pancakes	1 order	720	17	4	1950	
+Pancakes	(4) Double Blueberry Pancakes	1 order	600	17	6	1920	
+Pancakes	(4) Mexican Tres Leches Pancakes	1 order	690	18	4	2000	
+Pancakes	(4) New York Cheesecake Pancakes	1 order	850	22	6	2170	
+Pancakes	(4) Oreo Cheesecake Pancakes	1 order	1250	26	5	2480	
+Pancakes	(4) Protein Power Pancakes	1 order	660	37	5	1670	
+Pancakes	(4) Strawberry Banana Pancakes	1 order	670	18	8	1930	
+Pancakes	(5) Original Buttermilk Pancakes	1 order	720	21	5	2460	
+Pancakes	Build Your Combo - Chocolate Chip Pancakes (with Buttermilk)	1 order	640	12	6	1220	
+Pancakes	Build Your Combo - Chocolate Chocolate Chip Pancakes	1 order	650	13	7	1220	
+Pancakes	Build Your Combo - Cinn-a-Stack Pancakes	1 order	700	11	5	1350	
+Pancakes	Build Your Combo - Cupcake Pancakes	1 order	650	11	4	1230	
+Pancakes	Build Your Combo - Double Blueberry Pancakes	1 order	550	11	6	1200	
+Pancakes	Build Your Combo - Mexican Tres Leches Pancakes	1 order	580	12	4	1250	
+Pancakes	Build Your Combo - New York Cheesecake Pancakes	1 order	670	13	6	1330	
+Pancakes	Build Your Combo - Oreo Cheesecake Pancakes	1 order	880	16	5	1500	
+Pancakes	Build Your Combo - Original Buttermilk Pancakes	1 order	550	11	4	1260	
+Pancakes	Build Your Combo - Pancake Flight	1 order	220	2	2	240	
+Pancakes	Build Your Combo - Protein Power Pancakes	1 order	580	21	5	1100	
+Pancakes	Build Your Combo - Strawberry Banana Pancakes	1 order	590	12	7	1200	
+Crepes	Breakfast Crepes	1 order	1270	52	5	2000	
+Crepes	Build Your Combo - Cinnamon Bun Crepes	1 order	570	9	4	610	
+Crepes	Build Your Combo - Fresh Berry Crepes	1 order	550	12	5	710	
+Crepes	Chicken Florentine Crepes	1 order	870	54	5	2420	
+Crepes	Cinnamon Bun Crepes	1 order	680	12	3	740	
+Crepes	Fresh Berry Crepes	1 order	650	19	5	950	
+Waffles	Belgian Waffle	1 order	560	10	2	760	
+Waffles	Build Your Combo - Belgian Waffle	1 order	770	12	4	990	
+Waffles	Build Your Combo - Strawberry Cheesecake Waffle	1 order	930	16	5	1090	
+Waffles	Chicken & Waffles	1 order	1010	43	5	1950	
+Waffles	Strawberry Cheesecake Waflfe	1 order	710	13	3	850	
+Thick N Fluffy French Toast	Build Your Combo - Classic Thick N Fluffy French Toast	1 order	700	14	5	890	
+Thick N Fluffy French Toast	Build Your Combo - Strawberry Banana Thick N Fluffy French Toast	1 order	700	14	6	830	
+Thick N Fluffy French Toast	Classic Thick N Fluffy French Toast	1 order	900	23	5	1240	
+Thick N Fluffy French Toast	Strawberry Banana Thick N Fluffy French Toast	1 order	960	24	9	1190	
+Stuffed French Toast	Blueberry Vanilla Stuffed French Toast	1 order	940	15	4	800	
+Stuffed French Toast	Build Your Combo - Blueberry Vanilla Stuffed French Toast	1 order	470	7	2	400	
+Stuffed French Toast	Build Your Combo - Strawberry Vanilla Stuffed French Toast	1 order	460	7	2	400	
+Stuffed French Toast	Strawberry Vanilla Stuffed French Toast	1 order	920	15	5	810	
+Combos	Avocado Toast	1 order	580	10	17	970	
+Combos	Breakfast Sampler	1 order	960	34	4	2490	
+Combos	Buttermilk Biscuits & Gravy Combo	1 order	1230	22	4	2190	
+Combos	Chicken & Pancakes	1 order	920	46	5	2690	
+Combos	Chicken Fried Chicken & Eggs with Country Gravy	1 order	870	32	5	2220	
+Combos	Classic Bowl	1 order	1120	37	6	2960	
+Combos	Country Fried Steak & Eggs	1 order	1260	41	6	2780	
+Combos	Huevos Rancheros	1 order	660	21	10	1200	
+Combos	Loco Moco	1 order	810	38	3	3060	
+Combos	Machaca	1 order	1110	51	8	1770	
+Combos	Migas	1 order	1030	40	8	1490	
+Combos	Quick 2-Egg Breakfast	1 order	220	2	2	240	
+Combos	Sirloin Steak & Eggs	1 order	720	58	3	2550	
+Combos	Sirloin Tips & Eggs	1 order	1050	48	6	2710	
+Combos	Smokehouse Combo	1 order	1040	27	4	2670	
+Combos	Split Decision Breakfast	1 order	1160	33	5	2290	
+Combos	T-Bone Steak & Eggs (10 oz)	1 order	750	62	3	2080	
+Omelettes	Bacon Temptation Omelette	1 order	1160	68	1	2220	
+Omelettes	Big Steak Omelette	1 order	1010	64	5	1750	
+Omelettes	Buffalo Chicken Omelette	1 order	1240	66	3	3680	
+Omelettes	Build Your Own Omelette	1 order	380	27	0	420	
+Omelettes	Cheeseburger Omelette	1 order	1430	78	5	3850	
+Omelettes	Chicken Fajita Omelette	1 order	890	72	3	2100	
+Omelettes	Colorado Omelette	1 order	1240	71	1	2280	
+Omelettes	Country Omelette	1 order	1090	52	3	1750	
+Omelettes	Garden Omelette	1 order	780	45	3	910	
+Omelettes	Spicy Poblano Omelette	1 order	990	54	6	2270	
+Omelettes	Spinach & Mushroom Omelette	1 order	890	45	3	2030	
+Omelettes	Veggie Egg White Omelette	1 order	510	21	7	1280	
+Eggs Benedicts	Bacon Avocado Benedict	1 order	820	40	5	1660	
+Eggs Benedicts	Classic Benedict	1 order	480	30	1	1600	
+Eggs Benedicts	Spicy Poblano Benedict	1 order	570	40	3	1700	
+Hearty Classics	Big Breakfast Burrito	1 order	1590	60	6	2840	
+Hearty Classics	Breakfast Biscuit Sandwich	1 order	1110	31	2	2280	
+Hearty Classics	Chicken Biscuit Sandwich	1 order	1160	30	5	2590	
+Hearty Classics	Southwest Chicken Burrito	1 order	1370	62	10	3070	
+Hearty Classics	Spicy Poblano Fajita Burrito	1 order	1340	64	10	2920	
+Appetizers	Appetizer Sampler	1 order	1250	54	8	3190	
+Appetizers	Broccoli Cheddar Soup	1 order	180	7	2	830	
+Appetizers	Buffalo Chicken Wings	1 order	620	54	2	2380	
+Appetizers	Chicken Noodle Soup	1 order	120	8	1	400	
+Appetizers	Chicken Quesadilla	1 order	1030	51	4	2620	
+Appetizers	Chicken Tortilla Soup	1 order	130	5	4	900	
+Appetizers	Clam Chowder Soup	1 order	320	8	1	880	
+Appetizers	Crispy Shrimp	1 order	460	16	3	940	
+Appetizers	Jalapeno Poppers	1 order	760	11	4	1400	
+Appetizers	Mac & Cheese Bites	1 order	430	14	4	720	
+Appetizers	Mozza Sticks	1 order	630	31	4	1720	
+Appetizers	Pickle Fries	1 order	580	5	3	2080	
+Ultimate Steakburgers	Bacon Avocado Ranch	1 order	1160	47	7	2430	
+Ultimate Steakburgers	Big Brunch	1 order	1010	46	2	2110	
+Ultimate Steakburgers	Cowboy BBQ	1 order	1060	43	4	2590	
+Ultimate Steakburgers	Jalapeno Kick	1 order	1180	46	4	2180	
+Ultimate Steakburgers	The Classic	1 order	800	33	3	2020	
+Ultimate Steakburgers	The Classic with Bacon	1 order	930	41	3	2310	
+Hand-Crafted Sandwiches	Cali Roasted Turkey Melt	1 order	1150	62	10	1790	
+Hand-Crafted Sandwiches	Classic Chicken Sandwich	1 order	840	33	7	1440	
+Hand-Crafted Sandwiches	Double BLT	1 order	870	34	3	1530	
+Hand-Crafted Sandwiches	Philly Cheese Steak Stacker	1 order	810	50	3	2560	
+Fresh Salads & Soups	Chopped Chicken Salad	1 order	580	28	10	740	
+Fresh Salads & Soups	House Salad	1 order	130	8	2	190	
+Fresh Salads & Soups	Tomato Basil Soup	1 order	220	3	2	820	
+Entrees	Buttermilk Crispy Chicken	1 order	550	42	2	1460	
+Entrees	Cheesy Chicken Marinara Pasta	1 order	890	45	10	1690	
+Entrees	Country Fried Steak Dinner	1 order	710	30	2	1520	
+Entrees	Grilled Chicken Bacon Alfredo Pasta	1 order	1250	70	6	2640	
+Entrees	Grilled Chicken Dinner	1 order	160	34	0	1180	
+Entrees	Grilled Tilapia	1 order	220	36	0	1190	
+Entrees	Meatloaf	1 order	730	32	4	2990	
+Entrees	Pot Roast	1 order	320	36	0	4190	
+Entrees	Roasted Turkey	1 order	280	41	0	990	
+Entrees	Salmon	1 order	250	35	0	660	
+Entrees	Sirloin Steak Tips	1 order	510	37	2	1450	
+Entrees	Sirloin Steak Tips & Crispy Shrimp	1 order	780	46	4	2130	
+Entrees	Smoked Sausage	1 order	650	17	2	1510	
+Entrees	T-Bone Steak (10 oz)	1 order	290	49	0	580	
+IHOP Value Menu	BLT	1 order	580	18	2	920	
+IHOP Value Menu	Breakfast Faves Combo	1 order	330	9	2	1020	
+IHOP Value Menu	French Toast Breakfast	1 order	490	11	3	650	
+IHOP Value Menu	Ham & Cheese Omelette	1 order	820	41	2	2410	
+IHOP Value Menu	House Scramble	1 order	730	35	4	930	
+Platters	Buttermilk Crispy Chicken Strips & Fries	1 order	890	46	7	2660	
+Platters	Crispy Fish & Fries	1 order	1060	35	8	3060	
+Platters	Crispy Shrimp & Fries	1 order	990	22	7	2380	
+Platters	Fisherman's Platter	1 order	1140	34	8	3190	
+Kids	All-Natural Black Angus Jr. Cheeseburger	1 order	710	32	2	1590	
+Kids	French Toast Sticks	1 order	630	12	4	670	
+Kids	Happy Face Pancake with Buttermilk Pancake	1 order	310	5	2	490	
+Kids	Happy Face Pancake with Chocolate Pancake	1 order	310	5	2	490	
+Kids	Jr. Chicken Strips	1 order	230	17	1	600	
+Kids	Jr. Cupcake Pancake	1 order	310	4	0	520	
+Kids	Jr. Protein Pancake	1 order	180	10	2	400	
+Kids	Jr. Waffle	1 order	240	5	1	350	
+Kids	Macaroni & Cheese	1 order	310	11	2	830	
+Kids	Silver 5	1 order	290	7	2	880	
+55+ Menu	55+ Breakfast Sampler	1 order	620	18	3	1400	
+55+ Menu	55+ Crispy Fish	1 order	880	25	7	2520	
+55+ Menu	55+ Crispy Shrimp	1 order	780	14	5	2110	
+55+ Menu	55+ French Toast	1 order	490	11	3	650	
+55+ Menu	55+ Rise 'N Shine	1 order	220	2	2	240	
+Desserts	Cinn-A-Dippers Sundae	1 order	590	8	1	320	
+Desserts	Cinnamon Dippers	1 order	760	10	2	460	
+Desserts	Ice Cream Sundae	1 order	320	4	0	80	
+Desserts	Silver Dollar Pancakes Sundae	1 order	420	6	2	570	
+Desserts	Waffle Sundae with Caramel	1 order	310	5	0	230	
+Desserts	Waffle Sundae with Strawberriers	1 order	280	4	2	210	
+Sides	(2) Bacon Strips	1 order	130	8	0	290	
+Sides	(2) Fried Eggs	1 order	200	12	0	180	
+Sides	(2) Hard or Soft Boiled Eggs	1 order	160	13	0	125	
+Sides	(2) Poached Eggs	1 order	130	11	0	260	
+Sides	(2) Pork Sausage Links	1 order	210	5	0	330	
+Sides	(2) Scrambled Eggs	1 order	220	14	1	180	
+Sides	(2) Scrambled Egg Whites	1 order	60	10	0	180	
+Sides	(2) Slices of Spam	1 order	170	8	0	550	
+Sides	(2) Turkey Bacon Strips	1 order	60	5	0	340	
+Sides	(2) Turkey Sausage Links	1 order	90	8	0	390	
+Sides	(4) Bacon Strips	1 order	270	17	0	570	
+Sides	(4) Pork Sausage Links	1 order	420	10	0	660	
+Sides	(4) Slices of Spam	1 order	340	16	0	1100	
+Sides	(4) Turkey Bacon Strips	1 order	110	11	0	690	
+Sides	(4) Turkey Sausage Links	1 order	190	17	0	790	
+Sides	Buttered English Muffin	1 order	180	6	1	300	
+Sides	Buttered Toast with Jam - Multigrain	1 order	210	6	3	290	
+Sides	Buttered Toast with Jam - Rye Bread	1 order	320	7	5	500	
+Sides	Buttered Toast with Jam - Sourdough	1 order	170	4	1	270	
+Sides	Buttered Toast with Jam - Wheatberry	1 order	350	7	5	500	
+Sides	Buttered Toast with Jam - White	1 order	290	6	2	390	
+Sides	Buttered Toast with Jam - Whole Wheat	1 order	340	7	3	460	
+Sides	Buttermilk Biscuit with Butter	1 order	810	6	1	1470	
+Sides	Buttermilk Biscuit with Country Gravy	1 order	750	7	1	1820	
+Sides	Buttermilk Biscuit with Sausage Gravy	1 order	770	8	1	1900	
+Sides	Crispy Breakfast Potatoes	1 order	310	5	4	1010	
+Sides	French Fries	1 order	320	5	4	1170	
+Sides	Fresh Fruit	1 order	50	0	1	5	
+Sides	Grits	1 order	120	3	1	240	
+Sides	Hash Browns	1 order	220	2	2	240	
+Sides	Oatmeal	1 order	260	7	5	140	
+Sides	Onion Rings	1 order	470	6	3	1030	
+Sides	Scrapple	1 order	360	15	0	810	
+Sides	Slice of Ham	1 order	130	20	0	1240	
+Sides	Smoked Sausage Links	1 order	490	16	0	1420	
+Beverages	1% Milk (Large)	1 order	180	14	0	190	
+Beverages	1% Milk (Regular)	1 order	110	9	0	115	
+Beverages	Apple Juice (Large)	1 order	180	0	0	25	
+Beverages	Apple Juice (Regular)	1 order	110	0	0	15	
+Beverages	Barq's Root Beer (Large)	1 order	130	0	0	60	
+Beverages	Barq's Root Beer (X-Large)	1 order	240	0	0	105	
+Beverages	Blue Raspberry Lemonade (Large)	1 order	190	0	0	65	
+Beverages	Blue Raspberry Lemonade (X-Large)	1 order	240	0	0	80	
+Beverages	Blue Raspberry Lemonade Splasher (16 fl oz)	1 order	180	0	0	45	
+Beverages	Blue Raspberry Lemonade Splasher (30 fl oz)	1 order	230	0	0	55	
+Beverages	Brisk Raspberry Iced Tea (Large)	1 order	60	0	0	65	
+Beverages	Brisk Raspberry Iced Tea (X-Large)	1 order	110	0	0	120	
+Beverages	Caramel Ice Blend (Large)	1 order	420	7	0	170	
+Beverages	Caramel Ice Blend (Regular)	1 order	410	6	0	160	
+Beverages	Cherry Coke (Large)	1 order	130	0	0	30	
+Beverages	Cherry Coke (X-Large)	1 order	230	0	0	55	
+Beverages	Chocolate Iced Coffee (16 fl oz)	1 order	150	4	0	85	
+Beverages	Chocolate Iced Coffee (30 fl oz)	1 order	160	5	0	100	
+Beverages	Chocolate Milk (Large)	1 order	320	14	1	230	
+Beverages	Chocolate Milk (Regular)	1 order	210	9	0	150	
+Beverages	Cinnamon Bun Hot Chocolate	1 order	410	12	2	180	
+Beverages	Coca Cola (Large)	1 order	120	0	0	40	
+Beverages	Coca Cola (X-Large)	1 order	210	0	0	70	
+Beverages	Coke Zero (Large)	1 order	0	0	0	35	
+Beverages	Coke Zero (X-Large)	1 order	0	0	0	60	
+Beverages	Cranberry Juice (Large)	1 order	190	0	0	15	
+Beverages	Cranberry Juice (Regular)	1 order	120	0	0	10	
+Beverages	Diet Coke (Large)	1 order	0	0	0	35	
+Beverages	Diet Coke (X-Large)	1 order	0	0	0	60	
+Beverages	Diet Pepsi (Large)	1 order	0	0	0	30	
+Beverages	Diet Pepsi (X-Large)	1 order	0	0	0	55	
+Beverages	Double Espresso	1 order	5	0	0	10	
+Beverages	Dr. Pepper (Large)	1 order	130	0	0	50	
+Beverages	Dr. Pepper (X-Large)	1 order	230	0	0	90	
+Beverages	Dulce de Leche Iced Coffee (16 fl oz)	1 order	210	5	0	130	
+Beverages	Dulce de Leche Iced Coffee (30 fl oz)	1 order	230	6	0	150	
+Beverages	Freshly Brewed Iced Tea (Large)	1 order	5	0	0	10	
+Beverages	Freshly Brewed Iced Tea (X-Large)	1 order	10	0	0	15	
+Beverages	Fruit Punch, Hi-C (Large)	1 order	140	0	0	65	
+Beverages	Fruit Punch, Hi-C (X-Large)	1 order	250	0	0	115	
+Beverages	Fruit Punch, Tropicana (Large)	1 order	140	0	0	30	
+Beverages	Fruit Punch, Tropicana (X-Large)	1 order	250	0	0	55	
+Beverages	Hot Americano (16 fl oz)	1 order	10	0	0	20	
+Beverages	Hot Caramel Latte	1 order	270	11	0	160	
+Beverages	Hot Chocolate (Large)	1 order	310	2	0	470	
+Beverages	Hot Chocolate (Regular)	1 order	170	1	0	200	
+Beverages	Hot Latte	1 order	130	10	0	140	
+Beverages	Hot Mocha Latte	1 order	340	12	3	200	
+Beverages	Hot Tea - Decaf	1 order	0	0	0	5	
+Beverages	Hot Tea - English Breakfast	1 order	0	0	0	5	
+Beverages	Hot Tea - Golden Chamomile	1 order	0	0	0	0	
+Beverages	Hot Tea - Green	1 order	0	0	0	0	
+Beverages	Hot Vanilla Latte	1 order	240	10	0	150	
+Beverages	Iced Americano (16 fl oz)	1 order	10	0	0	20	
+Beverages	Iced Caramel Latte (Large)	1 order	230	9	0	135	
+Beverages	Iced Caramel Latte (Regular)	1 order	220	8	0	120	
+Beverages	Iced Latte (Large)	1 order	120	9	0	130	
+Beverages	Iced Latte (Regular)	1 order	110	8	0	115	
+Beverages	Iced Mocha Latte (Large)	1 order	270	11	2	170	
+Beverages	Iced Mocha Latte (Regular)	1 order	260	10	2	160	
+Beverages	Iced Vanilla Latte (Large)	1 order	230	9	0	135	
+Beverages	Iced Vanilla Latte (Regular)	1 order	220	8	0	120	
+Beverages	International House Roast Coffee	1 order	0	0	0	0	
+Beverages	International House Roast Decaf Coffee	1 order	0	0	0	0	
+Beverages	Lemonade (Large)	1 order	140	0	0	65	
+Beverages	Lemonade (X-Large)	1 order	250	0	0	115	
+Beverages	Lemonade Iced Tea (Large)	1 order	70	0	0	35	
+Beverages	Lemonade Iced Tea (X-Large)	1 order	130	0	0	65	
+Beverages	Mango Lemonade Splasher (16 fl oz)	1 order	190	0	0	45	
+Beverages	Mango Lemonade Splasher (30 fl oz)	1 order	250	0	0	60	
+Beverages	Mango Smoothie	1 order	340	0	0	0	
+Beverages	Manzanita Sol (Large)	1 order	130	0	0	30	
+Beverages	Manzanita Sol (X-Large)	1 order	240	0	0	55	
+Beverages	Mocha Ice Blend (Large)	1 order	300	6	3	120	
+Beverages	Mocha Ice Blend (Regular)	1 order	290	5	3	105	
+Beverages	Mountain Dew (Large)	1 order	140	0	0	50	
+Beverages	Mountain Dew (X-Large)	1 order	260	0	0	90	
+Beverages	Mug Root Beer (Large)	1 order	130	0	0	55	
+Beverages	Mug Root Beer (X-Large)	1 order	240	0	0	100	
+Beverages	Orange Fanta (Large)	1 order	130	0	0	45	
+Beverages	Orange Fanta (X-Large)	1 order	240	0	0	85	
+Beverages	Orange Juice (Large)	1 order	190	2	0	20	
+Beverages	Orange Juice (Regular)	1 order	120	1	0	10	
+Beverages	Original Red Bull Can	1 order	110	0	0	105	
+Beverages	Peppermint Hot Chocolate	1 order	410	12	2	180	
+Beverages	Pepsi (Large)	1 order	130	0	0	25	
+Beverages	Pepsi (X-Large)	1 order	230	0	0	45	
+Beverages	Pepsi Zero Sugar (Large)	1 order	0	0	0	35	
+Beverages	Pepsi Zero Sugar (X-Large)	1 order	0	0	0	60	
+Beverages	Pibb Extra (Large)	1 order	120	0	0	35	
+Beverages	Pibb Extra (X-Large)	1 order	210	0	0	60	
+Beverages	Pina Colada Smoothie	1 order	580	0	3	60	
+Beverages	Raspberry Iced Tea (Large)	1 order	110	0	0	15	
+Beverages	Raspberry Iced Tea (X-Large)	1 order	170	0	0	15	
+Beverages	Salted Caramel Hot Chocolate	1 order	410	12	2	260	
+Beverages	Sierra Mist (Large)	1 order	120	0	0	30	
+Beverages	Sierra Mist (X-Large)	1 order	210	0	0	55	
+Beverages	Single Espresso	1 order	0	0	0	0	
+Beverages	Sobe Yumberry Pomegranate Life Water (Large)	1 order	0	0	0	40	
+Beverages	Sobe Yumberry Pomegranate Life Water (X-Large)	1 order	0	0	0	70	
+Beverages	Specialty Hot Chocolate	1 order	400	13	3	200	
+Beverages	Sprite (Large)	1 order	120	0	0	55	
+Beverages	Sprite (X-Large)	1 order	210	0	0	100	
+Beverages	Starry Lemon Lime (Large)	1 order	130	0	0	30	
+Beverages	Starry Lemon Lime (X-Large)	1 order	230	0	0	55	
+Beverages	Strawberry Banana Smoothie	1 order	380	0	3	15	
+Beverages	Strawberry Hot Chocolate	1 order	400	12	2	180	
+Beverages	Strawberry Lemonade (Large)	1 order	200	0	0	65	
+Beverages	Strawberry Lemonade (X-Large)	1 order	250	0	0	80	
+Beverages	Strawberry Lemonade Splasher (16 fl oz)	1 order	190	0	0	45	
+Beverages	Strawberry Lemonade Splasher (30 fl oz)	1 order	240	0	0	55	
+Beverages	Sweeter Tea (Large)	1 order	210	0	0	10	
+Beverages	Sweeter Tea (X-Large)	1 order	370	0	0	20	
+Beverages	Sweet Tea (Large)	1 order	170	0	0	10	
+Beverages	Sweet Tea (X-Large)	1 order	310	0	0	20	
+Beverages	Tomato Juice (Large)	1 order	80	4	3	1220	
+Beverages	Tomato Juice (Regular)	1 order	50	2	2	740	
+Beverages	Vanilla Cola Float	1 order	300	3	0	65	
+Beverages	Vanilla Iced Coffee (16 fl oz)	1 order	150	3	0	50	
+Beverages	Vanilla Iced Coffee (30 fl oz)	1 order	160	4	0	65	
+Beverages	Wild Cherry Pepsi (Large)	1 order	130	0	0	25	
+Beverages	Wild Cherry Pepsi (X-Large)	1 order	240	0	0	45	
+Milkshakes	Chocolate Milkshake	1 order	650	11	1	220	
+Milkshakes	OREO Cookie Milkshake	1 order	730	12	1	330	
+Milkshakes	Strawberry Milkshake	1 order	560	11	1	180	
+Milkshakes	Vanilla Milkshake	1 order	570	11	0	170	
+Syrup Caddy	Blueberry Syrup	1 order	110	0	0	5	
+Syrup Caddy	Butter Pecan Syrup	1 order	110	0	0	10	
+Syrup Caddy	Old-Fashioned Syrup	1 order	110	0	0	5	
+Syrup Caddy	Strawberry Syrup	1 order	100	0	0	5	
+Family Feasts	1% Milk (16 fl oz)	1 order	180	14	0	190	
+Family Feasts	Apple Juice (16 fl oz)	1 order	180	0	0	25	
+Family Feasts	Breakfast Family Feast with French Toast	1 order	5470	166	25	6790	
+Family Feasts	Breakfast Family Feast with Pancakes	1 order	4850	155	22	8270	
+Family Feasts	Breakfast Family Feast with Waffles	1 order	5270	151	21	6530	
+Family Feasts	Buttermilk Crispy Chicken Family Feast	1 order	3470	171	31	10540	
+Family Feasts	Chocolate Milk (16 fl oz)	1 order	320	14	1	230	
+Family Feasts	Classic Cheeseburger with Fries for Burger Family Feast	1 order	1160	39	7	3570	
+Family Feasts	Coffee (16 fl oz)	1 order	5	0	0	10	
+Family Feasts	Decaf Coffee (16 fl oz)	1 order	0	0	0	10	
+Family Feasts	Lemonade (30 fl oz)	1 order	250	0	0	115	
+Family Feasts	Orange Juice (16 fl oz)	1 order	190	2	0	20	
+Family Feasts	Pancake Creations Family Feast	1 order	3470	102	21	5810	
+Family Feasts	Sweeter Tea (30 fl oz)	1 order	370	0	0	20	
+Family Feasts	Unsweetened Iced Tea (30 fl oz)	1 order	10	0	0	15	

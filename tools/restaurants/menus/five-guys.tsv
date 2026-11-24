@@ -1,0 +1,38 @@
+# Five Guys, from https://www.fiveguys.com/nutritional-allergy-information/ (US Nutrition & Allergen Guide, September 2026; typed in by hand 2026-10-19)
+# Five Guys only lists ingredients, so burgers, the hot dog and the veggie sandwich are added up from them (bun + patties + cheese + bacon),
+# with calories rounded to 10. A regular burger has 2 patties, a Little one 1, with a slice of cheese per patty. Toppings are separate items.
+# Where the guide lists two suppliers, the first one is used. Five Guys doesn't publish added sugars.
+category	name	serving	calories	protein	fiber	sodium	addedSugars
+Burgers	Hamburger	1 burger (2 patties, no toppings)	840	39	1	410
+Burgers	Cheeseburger	1 burger (2 patties, 2 cheese slices, no toppings)	980	47	1	1010
+Burgers	Bacon Burger	1 burger (2 patties, bacon, no toppings)	910	44	1	620
+Burgers	Bacon Cheeseburger	1 burger (2 patties, 2 cheese slices, bacon, no toppings)	1050	52	1	1220
+Burgers	Little Hamburger	1 burger (1 patty, no toppings)	540	23	1	360
+Burgers	Little Cheeseburger	1 burger (1 patty, 1 cheese slice, no toppings)	610	27	1	660
+Burgers	Little Bacon Burger	1 burger (1 patty, bacon, no toppings)	610	28	1	570
+Burgers	Little Bacon Cheeseburger	1 burger (1 patty, 1 cheese slice, bacon, no toppings)	680	32	1	870
+Dogs	Hot Dog	1 hot dog (no toppings)	500	17	1	1090
+Sandwiches	Veggie Sandwich	1 sandwich (grilled onions, mushrooms, green peppers, lettuce, tomatoes)	270	7	1	370
+Fries	Fries, Little	1 order (227 g)	526	8	8	531
+Fries	Fries, Regular	1 order (411 g)	953	15	15	962
+Fries	Fries, Large	1 order (567 g)	1314	20	21	1327
+Fries	Fries, Mini	1 order (175 g)	405	6	6	409
+Fries	Cajun Fries, Little	1 order (232 g)	540	8	8	862
+Fries	Cajun Fries, Regular	1 order (416 g)	967	15	15	1293
+Fries	Cajun Fries, Large	1 order (572 g)	1328	20	21	1658
+Fries	Cajun Fries, Mini	1 order (178 g)	413	6	6	417
+Milkshakes	Milkshake, vanilla	1 shake (no whipped cream or mix-ins)	524	10	0	317
+Milkshakes	Mini Milkshake, vanilla	1 shake (no whipped cream or mix-ins)	250	5	0	157
+Toppings	Cheese	1 slice	70	4	0	300
+Toppings	Bacon	2 pieces	70	5	0	210
+Toppings	Hamburger patty	1 patty	302	16	0	50
+Toppings	Mayonnaise	1 serving (14 g)	111	0	0	70
+Toppings	Ketchup	1 serving (17 g)	30	0	0	160
+Toppings	BBQ Sauce	1 serving (28 g)	49	0	0	400
+Toppings	A.1. Sauce	1 serving (17 g)	15	0	0	280
+Toppings	Grilled Mushrooms	1 serving (21 g)	6	0	0	50
+Toppings	Grilled Onions	1 serving (26 g)	11	0	0	1
+Toppings	Pickles	1 serving (28 g)	0	0	0	260
+Toppings	Five Guys Sauce	1 serving (35 g)	169	0	0	300
+Toppings	Cheese Sauce	1 serving (90 g)	92	4	0	622
+Peanuts	Peanuts	1 oz (30 g)	170	7	3	180

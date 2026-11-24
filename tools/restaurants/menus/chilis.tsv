@@ -1,0 +1,236 @@
+# Chili's, from https://www.chilis.com/nutrition (fetched 2026-10-19 by fetch_menus.py)
+category	name	serving	calories	protein	fiber	sodium	addedSugars
+Appetizers	8 Count Boneless Wings - Buffalo	1 order	920	36	3	3400	
+Appetizers	8 Count Boneless Wings - Honey Chipotle	1 order	1110	36	3	2620	
+Appetizers	8 Count Boneless Wings - House BBQ	1 order	1060	37	3	2530	
+Appetizers	8 Count Boneless Wings - Nashville Hot	1 order	1190	39	2	3120	
+Appetizers	8 Count Wings - Buffalo	1 order	990	74	1	3350	
+Appetizers	8 Count Wings - Honey Chipotle	1 order	1170	74	1	2520	
+Appetizers	8 Count Wings - House BBQ	1 order	1140	75	1	2500	
+Appetizers	8 Count Wings - Nashville Hot	1 order	1190	76	0	2760	
+Appetizers	12 Count Boneless Wings - Buffalo	1 order	1210	53	4	4810	
+Appetizers	12 Count Boneless Wings - Honey Chipotle	1 order	1490	53	4	3640	
+Appetizers	12 Count Boneless Wings - House BBQ	1 order	1420	54	5	3500	
+Appetizers	12 Count Boneless Wings - Nashville Hot	1 order	1610	57	3	4380	
+Appetizers	12 Count Wings - Buffalo	1 order	1310	110	1	4730	
+Appetizers	12 Count Wings - Honey Chipotle	1 order	1580	110	1	3480	
+Appetizers	12 Count Wings - House BBQ	1 order	1540	111	2	3450	
+Appetizers	12 Count Wings - Nashville Hot	1 order	1610	113	0	3840	
+Appetizers	16 Count Boneless Wings - Buffalo	1 order	1500	70	6	6210	
+Appetizers	16 Count Boneless Wings - Honey Chipotle	1 order	1880	70	6	4660	
+Appetizers	16 Count Boneless Wings - House BBQ	1 order	1780	71	7	4470	
+Appetizers	16 Count Boneless Wings - Nashville Hot	1 order	2030	75	5	5650	
+Appetizers	16 Count Wings - Buffalo	1 order	1640	146	1	6110	
+Appetizers	16 Count Wings - Honey Chipotle	1 order	1990	146	1	4450	
+Appetizers	16 Count Wings - House BBQ	1 order	1940	148	2	4410	
+Appetizers	16 Count Wings - Nashville Hot	1 order	2040	150	0	4930	
+Appetizers	Bottomless Chips & Salsa	1 order	910	13	8	1920	
+Appetizers	Chicken Bacon Ranch Nachos	1 order	2260	112	11	4280	
+Appetizers	Dip Trio - Chips Only (Choose 3 Dips)	1 order	880	12	7	810	
+Appetizers	Dip Trio - Fresh Guacamole	1 order	160	2	7	530	
+Appetizers	Dip Trio - Fresh Salsa	1 order	30	1	2	1110	
+Appetizers	Dip Trio - House-Made Ranch	1 order	450	3	0	790	
+Appetizers	Dip Trio - Skillet Beef Queso	1 order	220	11	1	1320	
+Appetizers	Dip Trio - Southwestern Queso	1 order	230	10	0	1020	
+Appetizers	Fresh Guacamole & Chips	1 order	1150	16	18	2710	
+Appetizers	Fried Mozzarella, 3 Count	1 order	920	48	6	2950	
+Appetizers	Fried Mozzarella, 6 Count	1 order	1790	95	10	5260	
+Appetizers	Fried Mozzarella - Honey Chipotle, 3 Count	1 order	1450	50	4	3550	
+Appetizers	Fried Mozzarella - Honey Chipotle, 6 Count	1 order	2440	97	9	6320	
+Appetizers	Fried Mozzarella - Nashville Sauce, 3 Count	1 order	1460	51	4	3720	
+Appetizers	Fried Mozzarella - Nashville Sauce, 6 Count	1 order	2470	99	8	6650	
+Appetizers	Skillet Beef Queso & Chips	1 order	1340	35	10	4560	
+Appetizers	Southwestern Eggrolls	1 order	1020	36	11	2830	
+Appetizers	Southwest Queso & Chips	1 order	1360	33	9	3970	
+Appetizers	Triple Dipper pick: Big Mouth Bites	1 of your 3 picks	820	32	1	1570	
+Appetizers	Triple Dipper pick: Bone-In Wings - Buffalo	1 of your 3 picks	490	37	0	1680	
+Appetizers	Triple Dipper pick: Bone-In Wings - Honey-Chipotle	1 of your 3 picks	580	37	0	1260	
+Appetizers	Triple Dipper pick: Bone-In Wings - House BBQ	1 of your 3 picks	570	38	1	1250	
+Appetizers	Triple Dipper pick: Boneless Wings - Buffalo	1 of your 3 picks	530	22	2	2050	
+Appetizers	Triple Dipper pick: Boneless Wings - Honey-Chipotle	1 of your 3 picks	650	22	2	1570	
+Appetizers	Triple Dipper pick: Boneless Wings - House BBQ	1 of your 3 picks	620	23	2	1510	
+Appetizers	Triple Dipper pick: Crispy Chicken Crispers without Sauce	1 of your 3 picks	590	34	2	1990	
+Appetizers	Triple Dipper pick: Fried Mozzarella	1 of your 3 picks	600	32	3	1780	
+Appetizers	Triple Dipper pick: Fried Mozzarella Honey Chipotle	1 of your 3 picks	870	33	3	2290	
+Appetizers	Triple Dipper pick: Fried Mozzarella Nashville Sauce	1 of your 3 picks	890	34	3	2460	
+Appetizers	Triple Dipper pick: Honey-Chipotle Chicken Crispers	1 of your 3 picks	950	35	2	2980	
+Appetizers	Triple Dipper pick: Nashville Hot Chicken Crispers	1 of your 3 picks	1020	37	2	3430	
+Appetizers	Triple Dipper pick: Southwestern Eggrolls	1 of your 3 picks	570	19	6	1550	
+Appetizers	Texas Cheese Fries	1 order	1790	72	8	3890	
+Fajitas	Fajita Grilled Chicken	1 order	480	62	5	2180	
+Fajitas	Fajita Grilled Steak	1 order	570	57	3	1850	
+Fajitas	Fajita Shrimp	1 order	310	25	3	2280	
+Fajitas	Fajita Trio	1 order	590	71	4	2820	
+Fajitas	Fajita Veggie	1 order	340	17	12	840	
+Big Mouth Burgers	Alex's Santa Fe Burger	1 order	930	49	4	1290	
+Big Mouth Burgers	Bacon Cheeseburger	1 order	1130	63	1	1740	
+Big Mouth Burgers	Bacon Rancher Burger	1 order	1710	107	2	2640	
+Big Mouth Burgers	Burger Big Mouth Bites	1 order	1220	57	3	2210	
+Big Mouth Burgers	Mushroom Swiss Burger	1 order	1010	53	4	1030	
+Big Mouth Burgers	Oldtimer Burger with Cheese	1 order	850	49	2	1200	
+Big Mouth Burgers	The Big QP Burger	1 order	890	51	2	1680	
+Big Mouth Burgers	The Big Smasher Burger	1 order	950	47	2	1440	
+Big Mouth Burgers	The Double Big Smasher Burger	1 order	1490	86	2	2080	
+Big Mouth Burgers	Veggie Santa Fe Burger	1 order	640	28	13	1410	
+Crispy Chicken Sandwiches	Big Crispy Chicken Sandwich	1 order	880	43	1	1960	
+Crispy Chicken Sandwiches	Buffalo Big Crispy Chicken Sandwich	1 order	710	43	2	3400	
+Crispy Chicken Sandwiches	Deluxe Big Crispy Chicken Sandwich	1 order	1050	56	2	2190	
+Crispy Chicken Sandwiches	Deluxe Grilled Chicken Sandwich	1 order	800	50	3	1680	
+Crispy Chicken Sandwiches	Grilled Chicken Sandwich	1 order	740	51	4	1560	
+Crispy Chicken Sandwiches	Honey-Chipotle Big Crispy Chicken Sandwich	1 order	840	43	2	2430	
+Crispy Chicken Sandwiches	Nashville Hot Big Crispy Chicken Sandwich	1 order	950	45	1	3000	
+Crispy Chicken Sandwiches	Spicy Big Crispy Chicken Sandwich	1 order	870	43	1	2000	
+Extras and Add-Ons	Ancho Salmon (Add-on)	1 order	330	41	0	860	
+Extras and Add-Ons	Applewood Smoked Bacon (Add-on)	1 order	80	7	0	180	
+Extras and Add-Ons	Fresh Fajita Toppings	1 order	260	15	0	440	
+Extras and Add-Ons	Garlic Butter Mushrooms (Add-on)	1 order	50	2	1	150	
+Extras and Add-Ons	Guacamole (Add-on)	1 order	50	1	2	170	
+Extras and Add-Ons	Jalapeno-Cheddar Smoked Sausage	1 order	380	21	1	1340	
+Extras and Add-Ons	Seared Shrimp - Full Order	1 order	60	11	0	810	
+Extras and Add-Ons	Seared Shrimp - Half Order	1 order	30	6	0	400	
+Extras and Add-Ons	Side Dippable Guacamole	1 order	160	2	7	530	
+Extras and Add-Ons	Side Dippable House-Made Ranch	1 order	450	3	0	790	
+Extras and Add-Ons	Side Dippable Skillet Beef Queso	1 order	220	11	1	1320	
+Extras and Add-Ons	Side Dippable Southwestern Queso	1 order	230	10	0	1020	
+Extras and Add-Ons	Sub Black Bean Patty	1 order	180	15	9	450	
+Extras and Add-Ons	Sub Classic Beef Patty	1 order	470	36	0	330	
+Extras and Add-Ons	Tortillas Corn, 4 Each	1 order	240	5	5	45	
+Extras and Add-Ons	Tortillas Flour, 4 Each	1 order	390	8	2	920	
+Chicken Crisper Combos	Crispy Crispers, 4 Count	1 order	790	45	2	2650	
+Chicken Crisper Combos	Crispy Crispers, 5 Count	1 order	990	57	3	3320	
+Chicken Crisper Combos	Crispy Crispers, 6 Count	1 order	1190	68	3	3980	
+Chicken Crisper Combos	Honey Chipotle Crispy Crispers, 4 Count	1 order	1040	45	3	3590	
+Chicken Crisper Combos	Honey Chipotle Crispy Crispers, 5 Count	1 order	1300	57	3	4480	
+Chicken Crisper Combos	Honey Chipotle Crispy Crispers, 6 Count	1 order	1560	68	4	5380	
+Chicken Crisper Combos	Nashville Hot Crispy Crispers, 4 Count	1 order	1140	48	2	4180	
+Chicken Crisper Combos	Nashville Hot Crispy Crispers, 5 Count	1 order	1420	60	3	5220	
+Chicken Crisper Combos	Nashville Hot Crispy Crispers, 6 Count	1 order	1710	72	3	6270	
+Dipping Sauces	Buffalo, 1.5 oz	1 order	40	0	0	1590	
+Dipping Sauces	Buffalo Ranch, 1.5 oz	1 order	180	1	0	570	
+Dipping Sauces	Honey Mustard, 1.5 oz	1 order	200	1	0	330	
+Dipping Sauces	House BBQ, 1.5 oz	1 order	110	1	1	440	
+Dipping Sauces	Ranch, 1.5 oz	1 order	170	1	0	290	
+BBQ Classics	Bacon Ranch Chicken Quesadilla	1 order	740	34	0	1560	
+BBQ Classics	Brisket Quesadilla	1 order	700	25	1	1180	
+BBQ Classics	Crispers Crispy without Sauce	1 order	590	34	2	1990	
+BBQ Classics	Crispers Honey Chipotle with Ranch	1 order	950	35	2	2980	
+BBQ Classics	Crispers Nashville Hot with Ranch	1 order	1020	37	2	3430	
+BBQ Classics	House BBQ - Full Rack	1 order	2160	136	2	2860	
+BBQ Classics	House BBQ - Half Rack	1 order	1130	68	1	1650	
+BBQ Classics	Monterey Chicken	1 order	880	62	7	2610	
+BBQ Classics	Ribs House BBQ	1 order	1130	68	1	1650	
+Steaks	Classic Ribeye	1 order	620	67	0	1440	
+Steaks	Classic Sirloin, 6 oz	1 order	250	34	0	630	
+Steaks	Classic Sirloin, 10 oz	1 order	390	54	0	950	
+Steaks	Surf & Turf Ribeye	1 order	690	78	0	2250	
+Steaks	Surf & Turf Sirloin, 10 oz	1 order	450	66	0	1760	
+Pastas	Cajun Pasta with Grilled Chicken	1 order	1160	64	8	3550	
+Pastas	Cajun Pasta with Shrimp	1 order	1070	46	7	3480	
+Pastas	Smoked Cajun Pasta	1 order	1540	86	9	4890	
+Pastas	Ultimate Cajun Pasta	1 order	1230	76	8	4350	
+Pastas	Veggie Pasta	1 order	1010	35	7	2670	
+Guiltless Grill	Ancho Salmon	1 order	590	48	0	1770	
+Guiltless Grill	Guiltless 6 oz Sirloin	1 order	300	38	3	1010	
+Guiltless Grill	Guiltless 10 oz Sirloin	1 order	450	59	3	1310	
+Guiltless Grill	Guiltless Grill Chicken Platter	1 order	350	35	5	1480	
+Guiltless Grill	Margarita Grilled Chicken	1 order	640	69	8	2660	
+Quesadillas	Quesadillas - Brisket	1 order	1620	53	2	2760	
+Quesadillas	Quesadillas - Chicken Bacon Ranch	1 order	1700	70	2	3520	
+Quesadillas	Quesadillas - Veggie	1 order	1390	40	3	2160	
+3 for Me	Crispy Crispers, 3 Count, with Choice of Sauce	1 order	1010	40	6	2650	
+3 for Me	Crispy Crispers, 3 Count, with Honey Chipotle Sauce	1 order	1370	41	7	3650	
+3 for Me	Crispy Crispers, 3 Count, with Nashville Sauce	1 order	1440	43	6	4090	
+Salads, Soups, and Bowls	Avocado Ranch, 1.5 oz	1 order	130	1	1	260	
+Salads, Soups, and Bowls	Blue Cheese, 1.5 oz	1 order	250	1	0	260	
+Salads, Soups, and Bowls	Chicken Enchilada, Bowl	1 order	390	19	2	1240	
+Salads, Soups, and Bowls	Chicken Enchilada, Cup	1 order	200	10	1	620	
+Salads, Soups, and Bowls	Chipotle Chicken Fresh Mex Bowl	1 order	880	46	7	2610	
+Salads, Soups, and Bowls	Citrus Balsamic Vinaigrette, 1.5 oz	1 order	250	0	0	230	
+Salads, Soups, and Bowls	House Large Salad without Dressing	1 order	270	11	4	580	
+Salads, Soups, and Bowls	House Side Salad without Dressing	1 order	130	5	1	290	
+Salads, Soups, and Bowls	Loaded Baked Potato, Bowl	1 order	430	16	2	1220	
+Salads, Soups, and Bowls	Loaded Baked Potato, Cup	1 order	220	8	1	610	
+Salads, Soups, and Bowls	Quesadilla Explosion Salad with Crispers	1 order	1420	51	6	2850	
+Salads, Soups, and Bowls	Quesadilla Explosion Salad with Grilled Chicken	1 order	1180	58	6	2270	
+Salads, Soups, and Bowls	Ranch Dressing, 1.5 oz	1 order	170	1	0	290	
+Salads, Soups, and Bowls	Santa Fe, 1.5 oz	1 order	230	1	0	580	
+Salads, Soups, and Bowls	Santa Fe Chicken Salad with Crispers	1 order	780	28	6	2150	
+Salads, Soups, and Bowls	Santa Fe Chicken Salad with Grilled Chicken	1 order	540	35	6	1580	
+Salads, Soups, and Bowls	Thousand Island, 1.5 oz	1 order	200	0	0	370	
+Desserts	Classic Cheesecake	1 order	870	11	1	690	
+Desserts	Molten Chocolate Cake	1 order	1140	13	4	1030	
+Desserts	Peanut Butter Pie	1 order	920	13	6	400	
+Desserts	Skillet Chocolate Chip Cookie	1 order	1210	17	5	700	
+Sides	Asparagus	1 order	35	3	3	135	
+Sides	Black Beans	1 order	110	6	5	480	
+Sides	Bowl of Loaded Street Corn	1 order	350	6	3	380	
+Sides	Garlic Butter Mushrooms	1 order	100	5	1	290	
+Sides	Homestyle Fries	1 order	420	6	5	660	
+Sides	Loaded Mac & Cheese	1 order	350	18	1	1140	
+Sides	Loaded Mashed Potatoes	1 order	320	9	2	790	
+Sides	Mashed Pototatoes	1 order	230	4	2	690	
+Sides	Mexican Rice	1 order	160	3	1	480	
+Sides	Steamed Broccoli	1 order	40	3	4	250	
+Sides	Texas Cheese Fries - Half Order	1 order	1300	51	5	2600	
+Sides	White Cheddar Mac & Cheese	1 order	260	12	1	930	
+Kids Menu	Blue Bell Vanilla Ice Cream	1 order	180	4	0	70	
+Kids Menu	Cheeseburger Bites	1 order	450	25	1	740	
+Kids Menu	Cheese Pizza	1 order	500	17	2	760	
+Kids Menu	Cheese Quesadilla	1 order	460	17	0	720	
+Kids Menu	Cheesy Chicken Pasta	1 order	620	47	4	2050	
+Kids Menu	Crispy Crispers	1 order	570	24	1	1620	
+Kids Menu	Grilled Chicken Bites	1 order	150	30	1	760	
+Kids Menu	Kraft Macaroni & Cheese	1 order	310	11	2	830	
+Kids Menu	Mini Molten Chocolate Cake	1 order	640	7	0	690	
+Kids Menu	Side Applesauce	1 order	90	0	1	0	
+Kids Menu	Side Corn Kernels	1 order	120	4	3	0	
+Kids Menu	Side Homestyle Fries	1 order	210	3	2	330	
+Kids Menu	Side Mashed Potatoes	1 order	110	2	1	280	
+Kids Menu	Side Salad with Ranch	1 order	240	4	1	440	
+Kids Menu	Side Steamed Broccoli	1 order	40	3	4	45	
+Beverages	1% Chocolate Milk, Kids	1 order	140	8	1	150	
+Beverages	1% Milk, Kids	1 order	110	8	0	130	
+Beverages	Apple Juice	1 order	100	0	0	0	
+Beverages	Arnold Palmer - Mango, Regular Cup	1 order	80	0	0	20	
+Beverages	Arnold Palmer - Mango, To-Go Cup	1 order	150	0	0	40	
+Beverages	Arnold Palmer - Regular, To-Go Cup	1 order	100	0	0	40	
+Beverages	Arnold Palmer - Regular Cup	1 order	60	0	0	20	
+Beverages	Arnold Palmer - Strawberry, Regular Cup	1 order	70	0	0	20	
+Beverages	Arnold Palmer - Strawberry, To-Go Cup	1 order	120	0	1	35	
+Beverages	Blue Lagoon, Kids	1 order	120	0	0	25	
+Beverages	Coca-Cola, Kid Cup	1 order	100	0	0	30	
+Beverages	Coca-Cola, Regular Cup	1 order	110	0	0	35	
+Beverages	Coca-Cola, To-Go Cup	1 order	190	0	0	65	
+Beverages	Coca-Cola Zero, Kid Cup	1 order	0	0	0	25	
+Beverages	Coca-Cola Zero, Regular Cup	1 order	0	0	0	30	
+Beverages	Coca-Cola Zero, To-Go Cup	1 order	0	0	0	55	
+Beverages	Coke Float, Kids	1 order	280	4	0	100	
+Beverages	Cranberry Juice	1 order	120	0	0	35	
+Beverages	Diet Coke, Regular Cup	1 order	0	0	0	30	
+Beverages	Diet Coke, To-Go Cup	1 order	0	0	0	55	
+Beverages	Dr. Pepper, Kid Cup	1 order	100	0	0	35	
+Beverages	Dr. Pepper, Regular Cup	1 order	110	0	0	40	
+Beverages	Dr. Pepper, To-Go Cup	1 order	200	0	0	75	
+Beverages	Dragon Fruit Lemonade, Regular Cup	1 order	180	0	0	40	
+Beverages	Dragon Fruit Lemonade, To-Go Cup	1 order	270	0	0	70	
+Beverages	Dr Pepper Float, Kids	1 order	280	4	0	105	
+Beverages	Iced Tea - Blackberry, Regular Cup	1 order	80	0	0	10	
+Beverages	Iced Tea - Blackberry, To-Go Cup	1 order	80	0	0	15	
+Beverages	Iced Tea - Dragon Fruit, Regular Cup	1 order	80	0	0	10	
+Beverages	Iced Tea - Dragon Fruit, To-Go Cup	1 order	80	0	0	15	
+Beverages	Iced Tea - Mango, Regular Cup	1 order	80	0	0	10	
+Beverages	Iced Tea - Mango, To-Go Cup	1 order	80	0	0	15	
+Beverages	Iced Tea - Unsweetened, Regular Cup	1 order	5	0	0	10	
+Beverages	Iced Tea - Unsweetened, To-Go Cup	1 order	5	0	0	15	
+Beverages	Minute Maid Lemonade, Kid Cup	1 order	100	0	0	35	
+Beverages	Minute Maid Lemonade, Regular Cup	1 order	110	0	0	35	
+Beverages	Minute Maid Lemonade, To-Go Cup	1 order	200	0	0	65	
+Beverages	Orange Juice	1 order	110	2	0	10	
+Beverages	Pineapple Juice	1 order	130	1	0	0	
+Beverages	Shirley Temple, Kids	1 order	140	0	0	25	
+Beverages	Spirte, Regular Cup	1 order	120	0	0	25	
+Beverages	Sprite, Kid Cup	1 order	110	0	0	25	
+Beverages	Sprite, To-Go Cup	1 order	210	0	0	50	
+Beverages	Strawberry Lemonade, Kid Cup	1 order	120	0	1	30	
+Beverages	Strawberry Lemonade, Regular Cup	1 order	130	0	1	35	
+Beverages	Strawberry Lemonade, To-Go Cup	1 order	240	0	1	60	

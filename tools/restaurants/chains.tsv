@@ -1,0 +1,17 @@
+# Restaurant chains in the app's restaurant search. Columns:
+#   id: file name in menus/ (menus/<id>.tsv)
+#   name: shown in the app
+#   aliases: other ways people type the chain name (| separated). Apostrophes and punctuation are ignored anyway.
+#   source: how fetch_menus.py gets the menu (nutritionix:<slug>, chick-fil-a, olive-garden, jersey-mikes, or manual for a hand-made file)
+#   page: the chain's own nutrition page, which links to or hosts the data. Shown in the app as the source.
+id	name	aliases	source	page
+applebees	Applebee's		nutritionix:applebees	https://www.applebees.com/en/nutrition/interactive-menu
+chick-fil-a	Chick-fil-A	chickfila|cfa	chick-fil-a	https://www.chick-fil-a.com/nutrition-allergens
+chilis	Chili's		nutritionix:chilis	https://www.chilis.com/nutrition
+culvers	Culver's		nutritionix:culvers	https://www.culvers.com/nutrition-and-allergen-guide
+five-guys	Five Guys	5 guys	manual	https://www.fiveguys.com/nutritional-allergy-information/
+jersey-mikes	Jersey Mike's	jersey mikes subs|jm	jersey-mikes	https://www.jerseymikes.com/menu/nutrition
+ihop	IHOP		nutritionix:ihop	https://www.ihop.com/en/nutrition/calculator
+olive-garden	Olive Garden	og	olive-garden	https://www.olivegarden.com/nutrition
+taco-bell	Taco Bell		nutritionix:taco-bell	https://www.tacobell.com/nutrition/info
+texas-roadhouse	Texas Roadhouse		nutritionix:texas-roadhouse	https://www.nutritionix.com/texas-roadhouse/portal

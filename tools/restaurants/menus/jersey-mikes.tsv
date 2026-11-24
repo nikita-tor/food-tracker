@@ -1,0 +1,25 @@
+# Jersey Mike's, from https://www.jerseymikes.com/menu/nutrition (fetched 2026-11-16 by fetch_menus.py)
+category	name	serving	calories	protein	fiber	sodium	addedSugars
+Cold Subs	#1 BLT	1 Regular sub, white bread	790	29	4	1630	
+Cold Subs	#2 Jersey Shore's Favorite	1 Regular sub, white bread, Mike's Way	820	39	4	1990	
+Cold Subs	#3 Ham and Provolone	1 Regular sub, white bread, Mike's Way	820	38	4	1960	
+Cold Subs	#4 The Number Four	1 Regular sub, white bread, Mike's Way	800	37	4	1830	
+Cold Subs	#5 The Super Sub	1 Regular sub, white bread, Mike's Way	830	41	4	2100	
+Cold Subs	#6 Roast Beef and Provolone	1 Regular sub, white bread, Mike's Way	910	57	4	1320	
+Cold Subs	#7 Turkey and Provolone	1 Regular sub, white bread, Mike's Way	820	45	4	1980	
+Cold Subs	#8 Club Sub	1 Regular sub, white bread, Mike's Way	1160	50	4	2560	
+Cold Subs	#9 Club Supreme	1 Regular sub, white bread, Mike's Way	1190	59	4	2050	
+Cold Subs	#10 Tuna Fish	1 Regular sub, white bread, Mike's Way	1060	33	5	1350	
+Cold Subs	#11 Stickball Special	1 Regular sub, white bread, Mike's Way	890	39	4	2170	
+Cold Subs	#12 Cancro Special	1 Regular sub, white bread, Mike's Way	970	59	4	1510	
+Cold Subs	#13 The Original Italian	1 Regular sub, white bread, Mike's Way	950	46	4	2550	
+Cold Subs	#14 The Veggie	1 Regular sub, white bread, Mike's Way	950	39	5	1310	
+Hot Subs	#16 Mike's Chicken Philly	1 Regular sub, white bread	680	48	3	2190	
+Hot Subs	#17 Mike's Famous Philly	1 Regular sub, white bread	750	46	3	2160	
+Hot Subs	#26 Bacon Ranch Chicken Cheese Steak	1 Regular sub, white bread	920	55	4	2490	
+Hot Subs	#31 California Chicken Cheese Steak	1 Regular sub, white bread	930	49	4	2150	
+Hot Subs	#42 Chipotle Chicken Cheese Steak	1 Regular sub, white bread	970	49	3	2550	
+Hot Subs	#43 Chipotle Cheese Steak	1 Regular sub, white bread	1040	46	3	2520	
+Hot Subs	#44 Buffalo Chicken Cheese Steak	1 Regular sub, white bread	890	50	4	3590	
+Hot Subs	#55 Big Kahuna Chicken Cheese Steak	1 Regular sub, white bread	740	51	3	2590	
+Hot Subs	#56 Big Kahuna Cheese Steak	1 Regular sub, white bread	800	49	3	2560	

@@ -1,0 +1,303 @@
+# Culver's, from https://www.culvers.com/nutrition-and-allergen-guide (fetched 2026-10-19 by fetch_menus.py)
+category	name	serving	calories	protein	fiber	sodium	addedSugars
+BUTTERBURGERS	BBQ Brisket Pub Burger	1 order	730	43	2	1140	
+BUTTERBURGERS	ButterBurger, Double	1 order	560	34	1	580	
+BUTTERBURGERS	ButterBurger, Single	1 order	390	20	1	480	
+BUTTERBURGERS	ButterBurger, Triple	1 order	730	48	1	680	
+BUTTERBURGERS	ButterBurger Cheese, Double	1 order	700	41	1	1020	
+BUTTERBURGERS	ButterBurger Cheese, Single	1 order	460	24	1	700	
+BUTTERBURGERS	ButterBurger Cheese, Triple	1 order	940	59	1	1340	
+BUTTERBURGERS	Mushroom & Swiss ButterBurger, Double	1 order	780	47	2	790	
+BUTTERBURGERS	Mushroom & Swiss ButterBurger, Single	1 order	530	27	2	650	
+BUTTERBURGERS	Mushroom & Swiss ButterBurger, Triple	1 order	1030	67	2	930	
+BUTTERBURGERS	Sourdough Melt, Double	1 order	740	45	3	840	
+BUTTERBURGERS	Sourdough Melt, Single	1 order	490	26	3	600	
+BUTTERBURGERS	Sourdough Melt, Triple	1 order	990	64	3	1080	
+BUTTERBURGERS	The Culver's Bacon Deluxe, Double	1 order	910	50	1	1620	
+BUTTERBURGERS	The Culver's Bacon Deluxe, Single	1 order	670	33	1	1300	
+BUTTERBURGERS	The Culver's Bacon Deluxe, Triple	1 order	1150	68	1	1940	
+BUTTERBURGERS	The Culver's Deluxe, Double	1 order	820	41	1	1240	
+BUTTERBURGERS	The Culver's Deluxe, Single	1 order	580	24	1	920	
+BUTTERBURGERS	The Culver's Deluxe, Triple	1 order	1060	59	1	1560	
+BUTTERBURGERS	Wisconsin Swiss Melt, Double	1 order	730	47	4	700	
+BUTTERBURGERS	Wisconsin Swiss Melt, Single	1 order	480	27	4	560	
+BUTTERBURGERS	Wisconsin Swiss Melt, Triple	1 order	980	67	4	840	
+FRESH FROZEN CUSTARD	Banana Split, 2 Scoop	1 order	1260	17	11	480	
+FRESH FROZEN CUSTARD	Banana Split, 3 Scoop	1 order	1420	20	12	520	
+FRESH FROZEN CUSTARD	Cake Cone, 1 Scoop	1 order	330	6	2	95	
+FRESH FROZEN CUSTARD	Cake Cone, 2 Scoop	1 order	620	11	4	170	
+FRESH FROZEN CUSTARD	Cake Cone, 3 Scoop	1 order	770	14	5	220	
+FRESH FROZEN CUSTARD	Caramel Cashew Sundae, 1 Scoop	1 order	730	12	3	410	
+FRESH FROZEN CUSTARD	Caramel Cashew Sundae, 2 Scoop	1 order	1010	17	5	480	
+FRESH FROZEN CUSTARD	Caramel Cashew Sundae, 3 Scoop	1 order	1170	20	6	530	
+FRESH FROZEN CUSTARD	Chocolate Frozen Custard, Pint	1 order	770	16	3	260	
+FRESH FROZEN CUSTARD	Chocolate Turtle Sundae, 1 Scoop	1 order	740	11	4	410	
+FRESH FROZEN CUSTARD	Chocolate Turtle Sundae, 2 Scoop	1 order	1000	16	6	490	
+FRESH FROZEN CUSTARD	Chocolate Turtle Sundae, 3 Scoop	1 order	1140	19	6	540	
+FRESH FROZEN CUSTARD	Coca-Cola Float, Large	1 order	500	6	2	135	
+FRESH FROZEN CUSTARD	Coca-Cola Float, Medium	1 order	470	6	2	130	
+FRESH FROZEN CUSTARD	Coca-Cola Float, Small	1 order	420	6	2	115	
+FRESH FROZEN CUSTARD	Concrete Mixer, Large	1 order	940	17	6	260	
+FRESH FROZEN CUSTARD	Concrete Mixer, Medium	1 order	820	15	5	220	
+FRESH FROZEN CUSTARD	Concrete Mixer, Mini	1 order	380	7	2	105	
+FRESH FROZEN CUSTARD	Concrete Mixer, Small	1 order	630	11	4	170	
+FRESH FROZEN CUSTARD	Create Your Own Dish, 1 Scoop	1 order	310	6	2	85	
+FRESH FROZEN CUSTARD	Create Your Own Dish, 2 Scoop	1 order	600	11	4	160	
+FRESH FROZEN CUSTARD	Create Your Own Dish, 3 Scoop	1 order	750	14	5	210	
+FRESH FROZEN CUSTARD	Culver's Root Beer Float, Large	1 order	520	6	2	190	
+FRESH FROZEN CUSTARD	Culver's Root Beer Float, Medium	1 order	490	6	2	180	
+FRESH FROZEN CUSTARD	Culver's Root Beer Float, Small	1 order	440	6	2	150	
+FRESH FROZEN CUSTARD	Fanta Orange Float, Large	1 order	510	6	2	135	
+FRESH FROZEN CUSTARD	Fanta Orange Float, Medium	1 order	480	6	2	130	
+FRESH FROZEN CUSTARD	Fanta Orange Float, Small	1 order	430	6	2	115	
+FRESH FROZEN CUSTARD	Malt, Large	1 order	1120	22	5	370	
+FRESH FROZEN CUSTARD	Malt, Medium	1 order	800	16	4	260	
+FRESH FROZEN CUSTARD	Malt, Small	1 order	600	12	3	190	
+FRESH FROZEN CUSTARD	Pumpkin S'mores Concrete Mixer, Large	1 order	1040	18	7	330	
+FRESH FROZEN CUSTARD	Pumpkin S'mores Concrete Mixer, Medium	1 order	910	16	7	290	
+FRESH FROZEN CUSTARD	Pumpkin S'mores Concrete Mixer, Mini	1 order	430	7	3	140	
+FRESH FROZEN CUSTARD	Pumpkin S'mores Concrete Mixer, Small	1 order	730	12	5	240	
+FRESH FROZEN CUSTARD	Pumpkin Spice Malt, Large	1 order	1180	22	7	450	
+FRESH FROZEN CUSTARD	Pumpkin Spice Malt, Medium	1 order	860	16	6	340	
+FRESH FROZEN CUSTARD	Pumpkin Spice Malt, Small	1 order	660	12	5	270	
+FRESH FROZEN CUSTARD	Pumpkin Spice Shake, Large	1 order	1090	21	7	390	
+FRESH FROZEN CUSTARD	Pumpkin Spice Shake, Medium	1 order	800	15	6	300	
+FRESH FROZEN CUSTARD	Pumpkin Spice Shake, Small	1 order	630	11	5	250	
+FRESH FROZEN CUSTARD	Salted Caramel Pumpkin Concrete Mixer&reg, Mini	1 order	450	7	3	250	
+FRESH FROZEN CUSTARD	Salted Caramel Pumpkin Concrete Mixer, Large	1 order	1090	18	7	560	
+FRESH FROZEN CUSTARD	Salted Caramel Pumpkin Concrete Mixer, Medium	1 order	970	16	6	520	
+FRESH FROZEN CUSTARD	Salted Caramel Pumpkin Concrete Mixer, Small	1 order	780	12	5	470	
+FRESH FROZEN CUSTARD	Shake, Large	1 order	1030	21	5	310	
+FRESH FROZEN CUSTARD	Shake, Medium	1 order	740	15	4	220	
+FRESH FROZEN CUSTARD	Shake, Small	1 order	570	11	3	170	
+FRESH FROZEN CUSTARD	Turtle Sundae, 1 Scoop	1 order	770	10	5	400	
+FRESH FROZEN CUSTARD	Turtle Sundae, 2 Scoop	1 order	1050	16	7	470	
+FRESH FROZEN CUSTARD	Turtle Sundae, 3 Scoop	1 order	1210	18	8	520	
+FRESH FROZEN CUSTARD	Vanilla Frozen Custard, Pint	1 order	780	14	5	210	
+FRESH FROZEN CUSTARD	Waffle Cone, 1 Scoop	1 order	420	8	3	140	
+FRESH FROZEN CUSTARD	Waffle Cone, 2 Scoop	1 order	710	13	5	220	
+FRESH FROZEN CUSTARD	Waffle Cone, 3 Scoop	1 order	860	16	6	260	
+CHICKEN	Buffalo Chicken Tenders, 1 Piece	1 order	130	10	0	500	
+CHICKEN	Buffalo Chicken Tenders, 2 Piece	1 order	270	20	2	1010	
+CHICKEN	Buffalo Chicken Tenders, 4 Piece	1 order	540	39	3	2010	
+CHICKEN	Buffalo Chicken Tenders, 8 Piece	1 order	1070	78	6	4030	
+CHICKEN	Crispy Chicken Sandwich	1 order	690	28	2	1590	
+CHICKEN	Grilled Chicken Sandwich	1 order	480	36	2	1280	
+CHICKEN	Original Chicken Tenders, 1 Piece	1 order	130	10	0	390	
+CHICKEN	Original Chicken Tenders, 2 Piece	1 order	260	19	1	780	
+CHICKEN	Original Chicken Tenders, 4 Piece	1 order	520	39	2	1560	
+CHICKEN	Original Chicken Tenders, 8 Piece	1 order	1040	78	5	3120	
+CHICKEN	Spicy Crispy Chicken Sandwich	1 order	680	32	3	1680	
+SEAFOOD	Butterfly Jumbo Shrimp Dinner, 6 Piece	1 order	1020	18	8	2070	
+SEAFOOD	Butterfly Jumbo Shrimp Dinner, 10 Piece	1 order	1230	24	9	2710	
+SEAFOOD	Butterfly Jumbo Shrimp Value Basket, 3 Piece	1 order	160	5	0	480	
+SEAFOOD	Butterfly Jumbo Shrimp Value Basket, 6 Piece	1 order	320	9	1	960	
+SEAFOOD	Butterfly Jumbo Shrimp Value Basket, 10 Piece	1 order	540	15	2	1600	
+SEAFOOD	North Atlantic Cod Dinner, 1 Piece	1 order	900	22	7	1380	
+SEAFOOD	North Atlantic Cod Dinner, 2 Piece	1 order	1100	35	8	1640	
+SEAFOOD	North Atlantic Cod Dinner, 3 Piece	1 order	1300	48	9	1910	
+SEAFOOD	North Atlantic Cod Sandwich	1 order	600	23	3	890	
+SANDWICHES	Beef Pot Roast	1 order	410	31	1	740	
+SANDWICHES	Beef Pot Roast Dinner	1 order	1040	37	7	1990	
+SANDWICHES	Chopped Steak Dinner	1 order	1110	38	8	1430	
+SANDWICHES	Corn Dog	1 order	240	6	0	500	
+SANDWICHES	Grilled Cheese	1 order	360	14	2	800	
+SANDWICHES	Grilled Reuben Melt	1 order	660	37	4	1930	
+SANDWICHES	Harvest Veggie Burger	1 order	610	19	5	1030	
+SANDWICHES	Pork Loin	1 order	580	31	2	990	
+SALADS	Chicken Cashew Salad	1 order	430	41	6	1020	
+SALADS	Cranberry Bacon Bleu Salad	1 order	390	46	5	1490	
+SALADS	Garden Fresco Salad	1 order	330	39	5	1090	
+SIDES	Boston Clam Chowder Soup, Large	1 order	420	19	2	2390	
+SIDES	Boston Clam Chowder Soup, Medium	1 order	290	13	1	1620	
+SIDES	Broccoli Cheese Soup, Large	1 order	360	16	2	1830	
+SIDES	Broccoli Cheese Soup, Medium	1 order	250	11	1	1250	
+SIDES	Chicken Noodle Soup, Large	1 order	180	10	1	1640	
+SIDES	Chicken Noodle Soup, Medium	1 order	130	7	0	1120	
+SIDES	Chili Cheddar Fries	1 order	610	14	6	1430	
+SIDES	Chili Cheddar Fries, Family	1 order	1870	44	17	4360	
+SIDES	Coleslaw, Large	1 order	400	2	4	480	
+SIDES	Coleslaw, Medium	1 order	200	1	2	240	
+SIDES	Crinkle Cut Fries, Family	1 order	1320	16	14	2470	
+SIDES	Crinkle Cut Fries, Large	1 order	430	5	4	810	
+SIDES	Crinkle Cut Fries, Medium	1 order	350	4	4	650	
+SIDES	Crinkle Cut Fries, Small	1 order	220	3	2	410	
+SIDES	Culver's Vegetable Beef Soup, Large	1 order	270	13	3	2010	
+SIDES	Culver's Vegetable Beef Soup, Medium	1 order	190	9	2	1370	
+SIDES	Fried Pickles	1 order	350	5	1	910	
+SIDES	Garden Side Salad	1 order	50	3	2	100	
+SIDES	George's Chili, Large	1 order	450	26	9	2190	
+SIDES	George's Chili, Medium	1 order	310	18	6	1490	
+SIDES	George's Chili Supreme, Large	1 order	620	34	10	2380	
+SIDES	George's Chili Supreme, Medium	1 order	430	22	7	1590	
+SIDES	Jalapeño Cheese Curds, Family	1 order	1500	72	6	3270	
+SIDES	Jalapeño Cheese Curds, Large	1 order	1000	48	4	2180	
+SIDES	Jalapeño Cheese Curds, Medium	1 order	500	24	2	1090	
+SIDES	Mashed Potatoes & Gravy, Large	1 order	260	8	4	820	
+SIDES	Mashed Potatoes & Gravy, Medium	1 order	130	4	2	410	
+SIDES	Mott's Applesauce	1 order	50	0	2	10	
+SIDES	Onion Rings, Family	1 order	1270	15	11	2800	
+SIDES	Onion Rings, Large	1 order	840	10	8	1870	
+SIDES	Onion Rings, Medium	1 order	420	5	4	930	
+SIDES	Potato with Bacon Soup, Large	1 order	390	14	3	1800	
+SIDES	Potato with Bacon Soup, Medium	1 order	270	10	2	1230	
+SIDES	Pretzel Bites, Family	1 order	1320	44	6	2430	
+SIDES	Pretzel Bites, Large	1 order	880	29	4	1620	
+SIDES	Pretzel Bites, Medium	1 order	440	15	2	810	
+SIDES	Side of Dill Pickles	1 order	5	0	0	570	
+SIDES	Side of Thick Cut Bacon	1 order	100	9	0	380	
+SIDES	Steamed Broccoli	1 order	40	3	3	40	
+SIDES	Stuffed Green Pepper with Beef Soup, Large	1 order	240	8	2	1850	
+SIDES	Stuffed Green Pepper with Beef Soup, Medium	1 order	170	6	1	1260	
+SIDES	Tomato Florentine Soup, Large	1 order	190	7	3	2010	
+SIDES	Tomato Florentine Soup, Medium	1 order	140	5	2	1370	
+SIDES	Wild and Brown Rice with Chicken Soup, Large	1 order	430	16	2	1920	
+SIDES	Wild and Brown Rice with Chicken Soup, Medium	1 order	300	11	1	1310	
+SIDES	Wisconsin Cheese Curds, Family	1 order	1480	51	8	4550	
+SIDES	Wisconsin Cheese Curds, Large	1 order	980	34	5	3030	
+SIDES	Wisconsin Cheese Curds, Medium	1 order	490	17	3	1520	
+DRINKS	Chocolate Milk	1 order	160	8	0	220	
+DRINKS	Culver's Premium Lemonade	1 order	180	0	0	0	
+DRINKS	Culver's Strawberry Lemonade	1 order	200	0	0	5	
+DRINKS	Mott's 100% Apple Juice	1 order	100	0	0	10	
+DRINKS	White Milk	1 order	110	8	0	130	
+LEMON ICE	Lemon Ice Cooler, Large	1 order	430	0	0	0	
+LEMON ICE	Lemon Ice Cooler, Medium	1 order	350	0	0	0	
+LEMON ICE	Lemon Ice Cooler, Small	1 order	230	0	0	0	
+LEMON ICE	Lemon Ice Dish, 1 Scoop	1 order	190	0	0	0	
+LEMON ICE	Lemon Ice Dish, 2 Scoop	1 order	270	0	0	0	
+LEMON ICE	Lemon Ice Dish, 3 Scoop	1 order	320	0	0	0	
+LEMON ICE	Lemon Ice Smoothie, Large	1 order	640	7	2	105	
+LEMON ICE	Lemon Ice Smoothie, Medium	1 order	490	5	1	75	
+LEMON ICE	Lemon Ice Smoothie, Small	1 order	330	3	0	50	
+SAUCES, DRESSINGS & CONDIMENTS	Beef Gravy	1 order	15	0	0	160	
+SAUCES, DRESSINGS & CONDIMENTS	Black Pepper Packet	1 order	0	0	0	0	
+SAUCES, DRESSINGS & CONDIMENTS	Buttermilk Ranch Dressing	1 order	180	1	0	380	
+SAUCES, DRESSINGS & CONDIMENTS	Butter Packet	1 order	40	0	0	30	
+SAUCES, DRESSINGS & CONDIMENTS	Chicken Gravy	1 order	20	0	0	190	
+SAUCES, DRESSINGS & CONDIMENTS	Cocktail Sauce	1 order	50	0	0	400	
+SAUCES, DRESSINGS & CONDIMENTS	Culver's Signature Sauce	1 order	260	3	0	520	
+SAUCES, DRESSINGS & CONDIMENTS	Culver's Vinaigrette	1 order	120	0	0	330	
+SAUCES, DRESSINGS & CONDIMENTS	Dip & Squeeze Ketchup	1 order	35	0	0	290	
+SAUCES, DRESSINGS & CONDIMENTS	Frank's RedHot Buffalo Sauce	1 order	5	0	0	390	
+SAUCES, DRESSINGS & CONDIMENTS	Fry Sauce	1 order	120	0	0	240	
+SAUCES, DRESSINGS & CONDIMENTS	Honey Mustard Dressing	1 order	130	0	0	400	
+SAUCES, DRESSINGS & CONDIMENTS	Horseradish Sauce	1 order	60	0	0	90	
+SAUCES, DRESSINGS & CONDIMENTS	Hot Sauce	1 order	0	0	0	110	
+SAUCES, DRESSINGS & CONDIMENTS	Ken's Blue Cheese Dressing	1 order	200	1	0	320	
+SAUCES, DRESSINGS & CONDIMENTS	Ken's Boom Boom Sauce	1 order	310	1	0	490	
+SAUCES, DRESSINGS & CONDIMENTS	Ken's Country French	1 order	190	0	0	300	
+SAUCES, DRESSINGS & CONDIMENTS	Ken's Raspberry Vinaigrette	1 order	45	0	0	120	
+SAUCES, DRESSINGS & CONDIMENTS	Malt Vinegar	1 order	0	0	0	0	
+SAUCES, DRESSINGS & CONDIMENTS	Marinara Cup	1 order	40	1	1	370	
+SAUCES, DRESSINGS & CONDIMENTS	Mayonnaise Packet	1 order	80	0	0	75	
+SAUCES, DRESSINGS & CONDIMENTS	Salt Packet	1 order	0	0	0	240	
+SAUCES, DRESSINGS & CONDIMENTS	Spicy Brown Mustard Packet	1 order	0	0	0	120	
+SAUCES, DRESSINGS & CONDIMENTS	Sweet Baby Ray's BBQ Sauce	1 order	110	1	1	450	
+SAUCES, DRESSINGS & CONDIMENTS	Tartar Sauce Cup	1 order	360	1	0	340	
+SAUCES, DRESSINGS & CONDIMENTS	Thousand Island Dressing	1 order	120	0	0	280	
+SAUCES, DRESSINGS & CONDIMENTS	Wisconsin Cheddar Cheese Sauce	1 order	130	6	0	350	
+SAUCES, DRESSINGS & CONDIMENTS	Yellow Mustard Packet	1 order	0	0	0	65	
+Test and LTOs (Preview Only)	Bacon Bleu Pub Burger, Double	1 order	920	64	0	930	
+Test and LTOs (Preview Only)	Bacon Bleu Pub Burger, Single	1 order	410	22	0	630	
+Test and LTOs (Preview Only)	Bacon Bleu Pub Burger, Triple	1 order	1850	139	0	1560	
+Test and LTOs (Preview Only)	Berry Happy Birthday Concrete Mixer, Large	1 order	1300	23	8	340	
+Test and LTOs (Preview Only)	Berry Happy Birthday Concrete Mixer, Medium	1 order	860	15	5	220	
+Test and LTOs (Preview Only)	Berry Happy Birthday Concrete Mixer, Mini	1 order	420	7	2	105	
+Test and LTOs (Preview Only)	Berry Happy Birthday Concrete Mixer, Small	1 order	670	11	4	170	
+Test and LTOs (Preview Only)	Bratwurst Pub Burger	1 order	430	35	0	740	
+Test and LTOs (Preview Only)	Buttery Parmesan Chicken Sandwich, Crispy	1 order	690	28	3	1430	
+Test and LTOs (Preview Only)	Buttery Parmesan Chicken Sandwich, Grilled	1 order	490	36	2	1120	
+Test and LTOs (Preview Only)	Buttery Parmesan Chicken Sandwich, Spicy Crispy	1 order	690	32	4	1520	
+Test and LTOs (Preview Only)	Buttery Parmesan Pub Burger, Double	1 order	700	36	2	620	
+Test and LTOs (Preview Only)	Buttery Parmesan Pub Burger, Single	1 order	530	22	2	520	
+Test and LTOs (Preview Only)	Buttery Parmesan Pub Burger, Triple	1 order	870	50	2	720	
+Test and LTOs (Preview Only)	Caramel Pretzel Brownie Sundae	1 order	370	6	2	220	
+Test and LTOs (Preview Only)	Chocolate Raspberry Concrete Mixer made with Dove, Large	1 order	860	18	4	290	
+Test and LTOs (Preview Only)	Chocolate Raspberry Concrete Mixer made with Dove, Medium	1 order	750	15	3	250	
+Test and LTOs (Preview Only)	Chocolate Raspberry Concrete Mixer made with Dove, Mini	1 order	710	10	7	190	
+Test and LTOs (Preview Only)	Chocolate Raspberry Concrete Mixer made with Dove, Small	1 order	580	12	2	190	
+Test and LTOs (Preview Only)	Cinnamon Sugar Pretzel Bites	1 order	560	11	3	980	
+Test and LTOs (Preview Only)	Cinnamon Toast Crunch Concrete Mixer, Large	1 order	940	17	6	260	
+Test and LTOs (Preview Only)	Cinnamon Toast Crunch Concrete Mixer, Medium	1 order	820	15	5	220	
+Test and LTOs (Preview Only)	Cinnamon Toast Crunch Concrete Mixer, Mini	1 order	380	7	2	105	
+Test and LTOs (Preview Only)	Cinnamon Toast Crunch Concrete Mixer, Small	1 order	630	11	4	170	
+Test and LTOs (Preview Only)	Cocoa Puffs Concrete Mixer, Large	1 order	860	18	4	290	
+Test and LTOs (Preview Only)	Cocoa Puffs Concrete Mixer, Medium	1 order	750	15	3	250	
+Test and LTOs (Preview Only)	Cocoa Puffs Concrete Mixer, Mini	1 order	340	7	1	115	
+Test and LTOs (Preview Only)	Cocoa Puffs Concrete Mixer, Small	1 order	570	12	2	190	
+Test and LTOs (Preview Only)	Colby Jack Pub Burger, Double	1 order	340	28	0	200	
+Test and LTOs (Preview Only)	Colby Jack Pub Burger, Single	1 order	170	14	0	100	
+Test and LTOs (Preview Only)	Colby Jack Pub Burger, Triple	1 order	510	42	0	300	
+Test and LTOs (Preview Only)	Crispy Chicken Club Sandwich	1 order	860	42	3	2110	
+Test and LTOs (Preview Only)	Culver's CurderBurger	1 order	510	20	1	700	
+Test and LTOs (Preview Only)	Earth Day Dirt Sundae	1 order	380	7	2	160	
+Test and LTOs (Preview Only)	Fried Pickle Pub Burger, Double	1 order	610	40	0	750	
+Test and LTOs (Preview Only)	Fried Pickle Pub Burger, Single	1 order	360	21	0	510	
+Test and LTOs (Preview Only)	Fried Pickle Pub Burger, Triple	1 order	860	59	0	990	
+Test and LTOs (Preview Only)	Frozen Cocoa Concrete Mixer, Large	1 order	970	17	6	260	
+Test and LTOs (Preview Only)	Frozen Cocoa Concrete Mixer, Medium	1 order	850	15	5	220	
+Test and LTOs (Preview Only)	Frozen Cocoa Concrete Mixer, Mini	1 order	410	7	2	105	
+Test and LTOs (Preview Only)	Frozen Cocoa Concrete Mixer, Small	1 order	660	11	4	170	
+Test and LTOs (Preview Only)	Frozen Cocoa Concrete Mixer with Andes, Large	1 order	1090	18	7	270	
+Test and LTOs (Preview Only)	Frozen Cocoa Concrete Mixer with Andes, Medium	1 order	960	16	6	230	
+Test and LTOs (Preview Only)	Frozen Cocoa Concrete Mixer with Andes, Mini	1 order	460	7	3	105	
+Test and LTOs (Preview Only)	Frozen Cocoa Concrete Mixer with Andes, Small	1 order	770	12	5	180	
+Test and LTOs (Preview Only)	Greek Gyro Pub Burger	1 order	180	14	0	100	
+Test and LTOs (Preview Only)	Grilled Chicken Club Sandwich	1 order	660	50	2	1800	
+Test and LTOs (Preview Only)	Jalapeno Jack Crispy Chicken Sandwich	1 order	780	33	2	1660	
+Test and LTOs (Preview Only)	Jalapeno Jack Grilled Chicken Sandwich	1 order	570	41	2	1350	
+Test and LTOs (Preview Only)	Jalapeno Jack Pub Burger, Double	1 order	860	46	1	980	
+Test and LTOs (Preview Only)	Jalapeno Jack Pub Burger, Single	1 order	610	27	1	750	
+Test and LTOs (Preview Only)	Jalapeno Jack Pub Burger, Triple	1 order	1110	65	1	1200	
+Test and LTOs (Preview Only)	Jalapeno Jack Spicy Chicken Sandwich	1 order	780	37	3	1750	
+Test and LTOs (Preview Only)	JJ's Way, Double	1 order	1600	58	4	2900	
+Test and LTOs (Preview Only)	JJ's Way, Single	1 order	1360	41	4	2580	
+Test and LTOs (Preview Only)	JJ's Way, Triple	1 order	1840	76	4	3220	
+Test and LTOs (Preview Only)	Lemon Ice Cooler made with Skittles Pop'd, Large	1 order	430	0	0	0	
+Test and LTOs (Preview Only)	Lemon Ice Cooler made with Skittles Pop'd, Medium	1 order	350	0	0	0	
+Test and LTOs (Preview Only)	Lemon Ice Cooler made with Skittles Pop'd, Small	1 order	230	0	0	0	
+Test and LTOs (Preview Only)	Lucky Charms Concrete Mixer, Large	1 order	940	17	6	260	
+Test and LTOs (Preview Only)	Lucky Charms Concrete Mixer, Medium	1 order	820	15	5	220	
+Test and LTOs (Preview Only)	Lucky Charms Concrete Mixer, Mini	1 order	380	7	2	105	
+Test and LTOs (Preview Only)	Lucky Charms Concrete Mixer, Small	1 order	630	11	4	170	
+Test and LTOs (Preview Only)	Mint Shake, Large	1 order	1130	21	5	410	
+Test and LTOs (Preview Only)	Mint Shake, Medium	1 order	810	15	4	290	
+Test and LTOs (Preview Only)	Mint Shake, Small	1 order	610	11	3	210	
+Test and LTOs (Preview Only)	North Atlantic Cod Value Basket, 1 Piece	1 order	200	13	0	270	
+Test and LTOs (Preview Only)	North Atlantic Cod Value Basket, 2 Piece	1 order	410	26	1	530	
+Test and LTOs (Preview Only)	North Atlantic Cod Value Basket, 3 Piece	1 order	610	39	2	800	
+Test and LTOs (Preview Only)	Northwoods Walleye Dinner, 1 Piece	1 order	700	9	7	1110	
+Test and LTOs (Preview Only)	Northwoods Walleye Dinner, 2 Piece	1 order	700	9	7	1110	
+Test and LTOs (Preview Only)	Northwoods Walleye Dinner, 3 Piece	1 order	700	9	7	1110	
+Test and LTOs (Preview Only)	Northwoods Walleye Sandwich	1 order	400	11	2	620	
+Test and LTOs (Preview Only)	Oreo Reese's Cheesecake Concrete Mixer, Large	1 order	1150	20	7	410	
+Test and LTOs (Preview Only)	Oreo Reese's Cheesecake Concrete Mixer, Medium	1 order	1020	18	6	380	
+Test and LTOs (Preview Only)	Oreo Reese's Cheesecake Concrete Mixer, Mini	1 order	530	9	3	210	
+Test and LTOs (Preview Only)	Oreo Reese's Cheesecake Concrete Mixer, Small	1 order	830	14	5	320	
+Test and LTOs (Preview Only)	Pepper Grinder Pub Burger, Double	1 order	600	48	0	760	
+Test and LTOs (Preview Only)	Pepper Grinder Pub Burger, Single	1 order	430	34	0	660	
+Test and LTOs (Preview Only)	Pepper Grinder Pub Burger, Triple	1 order	770	62	0	860	
+Test and LTOs (Preview Only)	Pretzel Haus Pub Burger, Double	1 order	580	45	0	890	
+Test and LTOs (Preview Only)	Pretzel Haus Pub Burger, Single	1 order	410	31	0	790	
+Test and LTOs (Preview Only)	Pretzel Haus Pub Burger, Triple	1 order	750	59	0	990	
+Test and LTOs (Preview Only)	Roasted Garlic and Bacon Pub Burger, Double	1 order	600	47	0	1020	
+Test and LTOs (Preview Only)	Roasted Garlic and Bacon Pub Burger, Single	1 order	350	28	0	780	
+Test and LTOs (Preview Only)	Roasted Garlic and Bacon Pub Burger, Triple	1 order	850	66	0	1260	
+Test and LTOs (Preview Only)	Seafood Combo Meal	1 order	730	35	3	1490	
+Test and LTOs (Preview Only)	Smoked Cheddar CurderBurger	1 order	510	20	1	700	
+Test and LTOs (Preview Only)	Smoky Gouda and Bacon Pub Burger, Double	1 order	450	37	0	580	
+Test and LTOs (Preview Only)	Smoky Gouda and Bacon Pub Burger, Single	1 order	210	17	0	210	
+Test and LTOs (Preview Only)	Smoky Gouda and Bacon Pub Burger, Triple	1 order	620	51	0	680	
+Test and LTOs (Preview Only)	Spicy Crispy Chicken Club Sandwich	1 order	860	46	4	2200	
+Test and LTOs (Preview Only)	Strawberry Fields Salad	1 order	370	35	7	1000	
+Test and LTOs (Preview Only)	Vanilla Concrete Mixer made with Skittles Pop'd, Large	1 order	940	17	6	260	
+Test and LTOs (Preview Only)	Vanilla Concrete Mixer made with Skittles Pop'd, Medium	1 order	820	15	5	220	
+Test and LTOs (Preview Only)	Vanilla Concrete Mixer made with Skittles Pop'd, Mini	1 order	380	7	2	105	
+Test and LTOs (Preview Only)	Vanilla Concrete Mixer made with Skittles Pop'd, Small	1 order	630	11	4	170	
+Test and LTOs (Preview Only)	Wisconsin Big Cheese Pub Burger, Double	1 order	490	37	0	560	
+Test and LTOs (Preview Only)	Wisconsin Big Cheese Pub Burger, Single	1 order	320	23	0	460	
+Test and LTOs (Preview Only)	Wisconsin Big Cheese Pub Burger, Triple	1 order	2400	173	0	3300	
+Test and LTOs (Preview Only)	Wisconsin Brandy Old Fashioned Pub Burger, Double	1 order	840	52	2	1380	
+Test and LTOs (Preview Only)	Wisconsin Brandy Old Fashioned Pub Burger, Single	1 order	600	35	2	1060	
+Test and LTOs (Preview Only)	Wisconsin Brandy Old Fashioned Pub Burger, Triple	1 order	1080	70	2	1700	

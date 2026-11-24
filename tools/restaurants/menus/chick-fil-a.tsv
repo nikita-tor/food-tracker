@@ -1,0 +1,272 @@
+# Chick-fil-A, from https://www.chick-fil-a.com/nutrition-allergens (fetched 2026-10-19 by fetch_menus.py)
+category	name	serving	calories	protein	fiber	sodium	addedSugars
+Breakfast	Waffle	1 order (83 g)	380	5	5	330	
+Breakfast	4 ct Mini Yeast Rolls	1 order (70 g)	300	6	2	450	
+Breakfast	English Muffin	1 order (58 g)	200	5	1	190	
+Breakfast	Buttery Biscuit	1 order (81 g)	350	4	2	760	
+Breakfast	Breakfast Waffle	1 order (68 g)	320	4	4	270	
+Breakfast	Large Fruit Cup	1 order (215 g)	120	1	4	0	
+Breakfast	Small Fruit Cup	1 order (107 g)	60	1	2	0	
+Breakfast	Medium Fruit Cup	1 order (125 g)	70	1	2	0	
+Breakfast	Hash Brown Scramble Bowl w/ No Meat - no hash browns	1 order (137 g)	200	16	2	530	
+Breakfast	Hash Brown Scramble Bowl w/ Bacon - no hash browns	1 order (158 g)	300	22	0	810	
+Breakfast	Hash Brown Scramble Bowl w/ Spicy Chicken - no hash browns	1 order (208 g)	350	31	1	1340	
+Breakfast	Hash Brown Scramble Bowl w/ Grilled Filet - no hash browns	1 order (187 g)	270	29	0	960	
+Breakfast	Hash Brown Scramble Bowl w/ Sausage - no hash browns	1 order (169 g)	340	21	0	780	
+Breakfast	Hash Brown Scramble Bowl w/ Nuggets - no hash browns	1 order (190 g)	320	28	0	1100	
+Breakfast	Hash Brown Scramble Bowl w/ No Meat	1 order (180 g)	350	17	3	770	
+Breakfast	Hash Brown Scramble Bowl w/ Bacon	1 order (200 g)	450	23	2	1060	
+Breakfast	Hash Brown Scramble Bowl w/ Spicy Chicken	1 order (251 g)	500	32	3	1590	
+Breakfast	Hash Brown Scramble Bowl w/ Grilled Filet	1 order (230 g)	410	30	2	1200	
+Breakfast	Hash Brown Scramble Bowl w/ Sausage	1 order (212 g)	480	23	2	1020	
+Breakfast	Hash Brown Scramble Bowl w/ Nuggets	1 order (233 g)	470	29	2	1350	
+Breakfast	Hash Brown Scramble Burrito w/ No Meat - no hash browns	1 order (208 g)	440	21	3	950	
+Breakfast	Hash Brown Scramble Burrito w/ Bacon - no hash browns	1 order (228 g)	540	27	2	1230	
+Breakfast	Hash Brown Scramble Burrito w/ Spicy Chicken - no hash browns	1 order (279 g)	590	36	2	1770	
+Breakfast	Hash Brown Scramble Burrito w/ Grilled Filet - no hash brown	1 order (258 g)	500	34	2	1380	
+Breakfast	Hash Brown Scramble Burrito w/ Sausage - no hash browns	1 order (240 g)	570	26	2	1200	
+Breakfast	Hash Brown Scramble Burrito w/ Nuggets - no hash browns	1 order (261 g)	550	33	2	1530	
+Breakfast	Hash Brown Scramble Burrito w/ No Meat	1 order (251 g)	580	22	5	1200	
+Breakfast	Hash Brown Scramble Burrito w/ Bacon	1 order (271 g)	680	30	3	1630	
+Breakfast	Hash Brown Scramble Burrito w/ Spicy Chicken	1 order (322 g)	740	37	4	2020	
+Breakfast	Hash Brown Scramble Burrito w/ Grilled Filet	1 order (301 g)	650	35	3	1630	
+Breakfast	Hash Brown Scramble Burrito w/ Sausage	1 order (283 g)	720	28	3	1450	
+Breakfast	Hash Brown Scramble Burrito w/ Nuggets	1 order (304 g)	700	34	3	1770	
+Breakfast	10 ct Chick-fil-A Chick-n-Minis	1 order (318 g)	910	49	6	2640	
+Breakfast	4 ct Chick-fil-A Chick-n-Minis	1 order (127 g)	360	20	2	1060	
+Breakfast	Sausage, Egg & Cheese Muffin	1 order (173 g)	490	23	1	1000	
+Breakfast	Bacon, Egg & Cheese Muffin	1 order (126 g)	300	16	1	780	
+Breakfast	Chicken, Egg & Cheese Muffin	1 order (187 g)	410	27	1	1320	
+Breakfast	Sausage, Egg & Cheese Biscuit	1 order (192 g)	620	22	2	1510	
+Breakfast	Bacon, Egg & Cheese Biscuit	1 order (145 g)	420	15	2	1220	
+Breakfast	Chicken, Egg & Cheese Biscuit	1 order (211 g)	550	27	3	1870	
+Breakfast	Egg White Grill	1 order (172 g)	300	27	1	990	
+Breakfast	Spicy Chicken Biscuit	1 order (153 g)	450	19	3	1570	
+Breakfast	Chick-fil-A Chicken Biscuit	1 order (153 g)	460	19	2	1510	
+Breakfast	Chicken & Waffles Breakfast Sandwich w/ Grilled Filet	1 order (129 g)	440	20	4	830	
+Breakfast	Chicken & Waffles Breakfast Sandwich w/ Spicy Filet	1 order (150 g)	530	23	5	1220	
+Breakfast	Berry Parfait w/ Cookie Crumbs	1 order (195 g)	240	12	1	85	
+Breakfast	Berry Parfait w/ Granola	1 order (206 g)	270	13	1	85	
+Breakfast	Large Hash Browns	1 order (121 g)	420	4	4	700	
+Breakfast	Small Hash Browns	1 order (77 g)	270	3	3	440	
+Breakfast	Chicken & Waffles Breakfast Sandwich w/ Chick-fil-A Filet	1 order (150 g)	530	22	4	1160	
+Entrées	2 ct Chick-fil-A Chick-n-Strips	1 order (91 g)	200	19	0	580	
+Entrées	10 ct Chick-fil-A Chick-n-Strips	1 order (452 g)	1020	96	0	2870	
+Entrées	4 ct Chick-fil-A Chick-n-Strips	1 order (181 g)	410	39	0	1150	
+Entrées	3 ct Chick-fil-A Chick-n-Strips	1 order (136 g)	310	29	0	870	
+Entrées	30 ct Grilled Nuggets	1 order (369 g)	510	98	1	1710	
+Entrées	12 ct Grilled Nuggets	1 order (142 g)	200	38	0	660	
+Entrées	8 ct Grilled Nuggets	1 order (95 g)	130	25	0	440	
+Entrées	30 ct Chick-fil-A Nuggets	1 order (425 g)	950	100	0	4550	
+Entrées	12 ct Chick-fil-A Nuggets	1 order (170 g)	380	40	0	1820	
+Entrées	8 ct Chick-fil-A Nuggets	1 order (113 g)	250	27	0	1210	
+Entrées	Grilled Chicken Club w/ No Cheese	1 order (216 g)	440	31	3	905	
+Entrées	Grilled Chicken Club w/ American	1 order (230 g)	490	34	3	1145	
+Entrées	Grilled Chicken Club w/ Pepper Jack	1 order (237 g)	520	37	3	1045	
+Entrées	Grilled Chicken Club w/ Colby Jack	1 order (237 g)	520	37	3	1055	
+Entrées	Spicy Deluxe Sandwich w/ No Cheese	1 order (238 g)	460	28	2	1740	
+Entrées	Spicy Deluxe Sandwich w/ American	1 order (252 g)	510	31	2	1980	
+Entrées	Spicy Deluxe Sandwich w/ Colby Jack	1 order (259 g)	540	33	2	1890	
+Entrées	Spicy Deluxe Sandwich w/ Pepper Jack	1 order (259 g)	540	34	2	1890	
+Entrées	Chick-fil-A Deluxe Sandwich w/ No Cheese	1 order (233 g)	430	29	1	1480	
+Entrées	Chick-fil-A Deluxe Sandwich w/ Pepper Jack	1 order (254 g)	510	34	1	1620	
+Entrées	Chick-fil-A Deluxe Sandwich w/ Colby Jack	1 order (254 g)	510	34	1	1620	
+Entrées	Chick-fil-A Deluxe Sandwich w/ American	1 order (247 g)	490	32	1	1710	
+Entrées	Chick-fil-A Cool Wrap	1 order (231 g)	660	43	14	1420	
+Entrées	Grilled Chicken Sandwich	1 order (206 g)	390	28	3	765	
+Entrées	Spicy Chicken Sandwich	1 order (188 g)	450	28	1	1740	
+Entrées	Chick-fil-A Chicken Sandwich	1 order (183 g)	420	29	1	1470	
+Entrées	Chicken & Waffles Sandwich w/ Grilled Filet	1 order (179 g)	540	29	5	850	
+Entrées	Chicken & Waffles Sandwich w/ Spicy Filet	1 order (215 g)	710	31	6	1860	
+Entrées	Chicken & Waffles Sandwich w/ Chick-fil-A Filet	1 order (210 g)	690	32	5	1600	
+Salads	Market Salad w/ No Chicken	1 order (241 g)	440	7	5	640	
+Salads	Market Salad w/ Grilled Filet (Warm)	1 order (325 g)	550	28	5	1010	
+Salads	Market Salad w/ Grilled Nuggets	1 order (335 g)	570	32	6	1080	
+Salads	Market Salad w/ Nuggets	1 order (354 g)	700	34	5	1850	
+Salads	Market Salad w/ Chick-fil-A Chick-n-Strips	1 order (377 g)	750	36	5	1500	
+Salads	Market Salad w/ Spicy Grilled Filet (Cold)	1 order (326 g)	540	26	6	1360	
+Salads	Market Salad w/ Grilled Filet (Cold)	1 order (326 g)	550	28	5	1010	
+Salads	Spicy Southwest Salad w/ No Chicken	1 order (339 g)	570	14	7	850	
+Salads	Spicy Southwest Salad w/ Grilled Filet (Warm)	1 order (423 g)	680	35	7	1220	
+Salads	Spicy Southwest Salad w/ Chick-fil-A Chick-n-Strips	1 order (475 g)	880	43	7	1710	
+Salads	Spicy Southwest Salad w/ Grilled Nuggets	1 order (434 g)	700	39	7	1290	
+Salads	Spicy Southwest Salad w/ Nuggets	1 order (448 g)	800	39	7	2050	
+Salads	Spicy Southwest Salad w/ Grilled Filet (Cold)	1 order (424 g)	680	35	7	1220	
+Salads	Spicy Southwest Salad w/ Spicy Grilled Filet (Cold)	1 order (424 g)	680	33	7	1570	
+Salads	Cobb Salad w/ No Chicken	1 order (284 g)	500	14	5	890	
+Salads	Cobb Salad w/ Grilled Filet (Warm)	1 order (368 g)	600	35	5	1260	
+Salads	Cobb Salad w/ Grilled Filet (Cold)	1 order (369 g)	610	35	5	1260	
+Salads	Cobb Salad w/ Chick-fil-A Chick-n-Strips	1 order (420 g)	810	43	5	1750	
+Salads	Cobb Salad w/ Grilled Nuggets	1 order (378 g)	630	39	5	1330	
+Salads	Cobb Salad w/ Spicy Grilled Filet (Cold)	1 order (369 g)	600	33	5	1610	
+Salads	Cobb Salad w/ Nuggets	1 order (411 g)	830	41	5	2180	
+Sides	Small Mac & Cheese	1 order (136 g)	270	12	2	710	
+Sides	Medium Mac & Cheese	1 order (227 g)	450	20	3	1190	
+Sides	Small Chick-fil-A Waffle Potato Fries	1 order (96 g)	320	4	4	190	
+Sides	Large Chick-fil-A Waffle Potato Fries	1 order (179 g)	600	7	7	340	
+Sides	Medium Chick-fil-A Waffle Potato Fries	1 order (125 g)	420	5	5	240	
+Sides	Side Salad	1 order (166 g)	470	6	4	700	
+Sides	Bowl of Chicken Noodle Soup	1 order (476 g)	320	20	3	2280	
+Sides	Cup of Chicken Noodle Soup	1 order (252 g)	190	11	2	1290	
+Sides	Chicken Tortilla Soup	1 order (265 g)	350	25	18	1115	
+Sides	Kale Crunch Side	1 order (112 g)	170	4	4	250	
+Sides	Buddy Fruits Apple Sauce	1 order (90 g)	45	0	1	0	
+Sides	Chick-fil-A Sauce Flavored Waffle Potato Chips	1 order (43 g)	210	3	2	330	
+Sides	Original Flavor Waffle Potato Chips	1 order (43 g)	220	3	2	250	
+Kid's Meals (nutrition per entrée only)	Mac & Cheese Kid’s Meal	1 order (227 g)	450	20	3	1190	
+Kid's Meals (nutrition per entrée only)	5 Ct Grilled Nuggets Kid's Meal	1 order (59 g)	80	16	0	270	
+Kid's Meals (nutrition per entrée only)	2 Ct Chick-n-Strips Kid's Meal	1 order (91 g)	200	19	0	580	
+Kid's Meals (nutrition per entrée only)	5 Ct Nuggets Kid's Meal	1 order (71 g)	160	17	0	760	
+Treats	Chocolate Fudge Brownie	1 order (85 g)	370	4	2	140	
+Treats	6 pack Chocolate Chunk Cookie	1 order (78 g)	370	5	3	230	
+Treats	Chocolate Chunk Cookie	1 order (78 g)	370	5	3	230	
+Treats	Frosted Powerade Mountain Berry Blast	1 order (369 g)	290	7	0	180	
+Treats	Frosted Barq’s Red Flash	1 order (369 g)	320	7	0	150	
+Treats	Frosted Fanta Strawberry	1 order (369 g)	320	7	0	170	
+Treats	Frosted Fanta Orange	1 order (369 g)	320	7	0	150	
+Treats	Frosted Mello Yello	1 order (369 g)	320	7	0	160	
+Treats	Frosted Caffeine Free Barq’s Root Beer	1 order (369 g)	320	7	0	160	
+Treats	Frosted Sprite	1 order (369 g)	320	7	0	160	
+Treats	Frosted Hi-C Orange	1 order (369 g)	310	7	0	150	
+Treats	Frosted Hi-C Fruit Punch	1 order (369 g)	320	7	0	140	
+Treats	Frosted Coca-Cola Cherry	1 order (369 g)	320	7	0	150	
+Treats	Frosted Caffeine Free Diet Coke	1 order (369 g)	260	7	0	160	
+Treats	Frosted Coke Zero Sugar	1 order (369 g)	260	7	0	160	
+Treats	Frosted Diet Coke	1 order (369 g)	260	7	0	160	
+Treats	Frosted Coke	1 order (369 g)	320	7	0	150	
+Treats	Frosted Barq’s Root Beer	1 order (369 g)	320	7	0	160	
+Treats	Frosted Diet Dr Pepper	1 order (369 g)	260	7	0	150	
+Treats	Frosted Dr Pepper	1 order (369 g)	320	7	0	150	
+Treats	Frosted Lemonade w/ Diet Lemonade	1 order (383 g)	280	7	0	140	
+Treats	Frosted Lemonade	1 order (383 g)	350	7	0	135	
+Treats	Pineapple Dragonfruit Frosted Lemonade w/ Diet Lemonade	1 order (375 g)	300	7	0	150	
+Treats	Pineapple Dragonfruit Frosted Lemonade	1 order (375 g)	360	7	0	150	
+Treats	S’mores Frosted Coffee	1 order (382 g)	400	7	1	220	
+Treats	Toasted Marshmallow Whipped Topping	1 order (23 g)	60	1	0	10	
+Treats	Chick-fil-A Icedream Cone	1 order (135 g)	180	4	0	90	
+Treats	Chick-fil-A Icedream Cup	1 order (122 g)	140	4	0	75	
+Treats	Vanilla Milkshake	1 order (409 g)	580	13	1	390	
+Treats	Strawberry Milkshake	1 order (409 g)	560	10	1	370	
+Treats	Chocolate Milkshake	1 order (409 g)	600	12	1	350	
+Treats	Cookies & Cream Milkshake	1 order (409 g)	630	13	1	430	
+Treats	Vanilla Frosted Coffee	1 order (400 g)	330	7	0	140	
+Treats	Mocha Frosted Coffee	1 order (400 g)	330	7	1	150	
+Treats	Caramel Frosted Coffee	1 order (406 g)	370	7	0	190	
+Treats	Frosted Coffee	1 order (374 g)	260	7	0	140	
+Treats	Dr Pepper Float	1 order (369 g)	320	7	0	150	
+Drinks	Gallon Pineapple Dragonfruit Unsweet Tea	1 order (340 g)	25	0	0	10	
+Drinks	Gallon Pineapple Dragonfruit Sweet Tea	1 order (340 g)	150	0	0	10	
+Drinks	Gallon Pineapple Dragonfruit Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)	1 order (340 g)	45	0	0	15	
+Drinks	Gallon Pineapple Dragonfruit Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade)	1 order (340 g)	110	0	0	15	
+Drinks	Gallon Pineapple Dragonfruit Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade)	1 order (340 g)	110	0	0	10	
+Drinks	Gallon Pineapple Dragonfruit Sunjoy (1/2 Sweet Tea, 1/2 Lemonade)	1 order (340 g)	180	0	0	10	
+Drinks	Gallon Pineapple Dragonfruit Diet Lemonade	1 order (340 g)	70	0	0	20	
+Drinks	Gallon Pineapple Dragonfruit Lemonade	1 order (340 g)	210	0	0	10	
+Drinks	Bag of Ice	1 order (28 g)	0	0	0	0	
+Drinks	Gallon Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)	1 order (340 g)	20	0	0	0	
+Drinks	Gallon Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade)	1 order (340 g)	100	0	0	0	
+Drinks	Gallon Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade)	1 order (340 g)	90	0	0	0	
+Drinks	Gallon Sunjoy (1/2 Sweet Tea, 1/2 Lemonade)	1 order (340 g)	160	0	0	0	
+Drinks	Gallon Chick-fil-A Iced Tea (1/2 Sweet Tea, 1/2 Unsweet Tea)	1 order (340 g)	70	0	0	0	
+Drinks	Gallon Freshly-Brewed Iced Tea Unsweetened	1 order (340 g)	0	0	0	0	
+Drinks	Gallon Freshly-Brewed Iced Tea Sweetened	1 order (340 g)	130	0	0	0	
+Drinks	Gallon Chick-fil-A Lemonade (1/2 Lemonade, 1/2 Diet Lemonade)	1 order (340 g)	120	0	0	0	
+Drinks	Gallon Chick-fil-A Diet Lemonade	1 order (340 g)	40	0	0	10	
+Drinks	Gallon Chick-fil-A Lemonade	1 order (340 g)	190	0	0	0	
+Drinks	Large Freshly-Brewed Sweetened Iced Tea	1 order (893 g)	170	0	0	0	
+Drinks	Medium Freshly-Brewed Sweetened Iced Tea	1 order (604 g)	120	0	0	0	
+Drinks	Small Freshly-Brewed Sweetened Iced Tea	1 order (451 g)	90	0	0	0	
+Drinks	Toasted Marshmallow Hot Coffee	1 order (380 g)	110	0	0	65	
+Drinks	Large Dr Pepper	1 order (859 g)	250	0	0	75	
+Drinks	Medium Dr Pepper	1 order (584 g)	170	0	0	50	
+Drinks	Small Dr Pepper	1 order (451 g)	130	0	0	40	
+Drinks	Large Coca-Cola	1 order (859 g)	250	0	0	65	
+Drinks	Medium Coca-Cola	1 order (584 g)	170	0	0	45	
+Drinks	Small Coca-Cola	1 order (451 g)	130	0	0	35	
+Drinks	Large Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade)	1 order (944 g)	150	0	0	10	
+Drinks	Medium Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade)	1 order (641 g)	110	0	0	5	
+Drinks	Small Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade)	1 order (479 g)	80	0	0	5	
+Drinks	Large Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade)	1 order (944 g)	260	0	0	0	
+Drinks	Medium Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade)	1 order (641 g)	160	0	0	0	
+Drinks	Small Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade)	1 order (479 g)	130	0	0	0	
+Drinks	Large Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)	1 order (944 g)	60	0	0	10	
+Drinks	Medium Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)	1 order (641 g)	35	0	0	5	
+Drinks	Small Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)	1 order (479 g)	30	0	0	5	
+Drinks	Large Sunjoy (1/2 Sweet Tea, 1/2 Lemonade)	1 order (944 g)	350	0	0	0	
+Drinks	Medium Sunjoy (1/2 Sweet Tea, 1/2 Lemonade)	1 order (641 g)	240	0	0	0	
+Drinks	Small Sunjoy (1/2 Sweet Tea, 1/2 Lemonade)	1 order (479 g)	180	0	0	0	
+Drinks	Large Chick-fil-A Diet Lemonade	1 order (916 g)	80	0	0	15	
+Drinks	Medium Chick-fil-A Diet Lemonade	1 order (612 g)	60	0	0	10	
+Drinks	Small Chick-fil-A Diet Lemonade	1 order (465 g)	40	0	0	10	
+Drinks	Large Chick-fil-A Lemonade	1 order (916 g)	380	1	1	0	
+Drinks	Medium Chick-fil-A Lemonade	1 order (612 g)	260	0	0	0	
+Drinks	Small Chick-fil-A Lemonade	1 order (465 g)	190	0	0	0	
+Drinks	Large Freshly-Brewed Unsweetened Iced Tea	1 order (893 g)	0	0	0	0	
+Drinks	Medium Freshly-Brewed Unsweetened Iced Tea	1 order (604 g)	0	0	0	0	
+Drinks	Small Freshly-Brewed Unsweetened Iced Tea	1 order (451 g)	0	0	0	0	
+Drinks	Pineapple Dragonfruit Diet Lemonade	1 order (662 g)	90	0	0	25	
+Drinks	Pineapple Dragonfruit Lemonade	1 order (691 g)	290	0	0	15	
+Drinks	Iced Coffee (Drinks)	1 order (661 g)	200	7	0	115	
+Drinks	Honest Kids Apple Juice	1 order (170 g)	35	0	0	15	
+Drinks	1% Chocolate Milk	1 order (198 g)	140	7	0	160	
+Drinks	1% Milk	1 order (213 g)	90	7	0	105	
+Drinks	Simply Orange	1 order (326 g)	160	2	0	10	
+Drinks	DASANI Bottled Water	1 order (479 g)	0	0	0	0	
+Drinks	Toasted Marshmallow Cream Cold Brew	1 order (712 g)	530	8	0	440	
+Drinks	Toasted Marshmallow Iced Coffee	1 order (683 g)	270	7	0	200	
+Drinks	Pineapple Dragonfruit Unsweet Tea	1 order (662 g)	35	0	0	15	
+Drinks	Pineapple Dragonfruit Sweet Tea	1 order (662 g)	150	0	0	15	
+Drinks	Pineapple Dragonfruit Sunjoy (Unsweet Tea, Diet Lemonade)	1 order (662 g)	60	0	0	20	
+Drinks	Pineapple Dragonfruit Sunjoy (Unsweet Tea, Lemonade)	1 order (662 g)	160	0	0	15	
+Drinks	Pineapple Dragonfruit Sunjoy (Sweet Tea, Diet Lemonade)	1 order (662 g)	140	0	0	20	
+Drinks	Pineapple Dragonfruit Sunjoy (Sweet Tea, Lemonade)	1 order (662 g)	240	0	0	15	
+Drinks	Pineapple Dragonfruit & Sprite	1 order (662 g)	190	0	0	100	
+Coffee	Hot Coffee	1 order (340 g)	0	0	0	10	
+Coffee	Cream Cold Brew	1 order (652 g)	370	8	0	360	
+Coffee	Vanilla Cream Cold Brew	1 order (689 g)	470	8	0	360	
+Coffee	Mocha Cream Cold Brew	1 order (689 g)	460	9	1	370	
+Coffee	Caramel Cream Cold Brew	1 order (700 g)	520	9	0	440	
+Coffee	Iced Coffee (Coffee)	1 order (624 g)	110	7	0	115	
+Coffee	Vanilla Iced Coffee	1 order (661 g)	210	7	0	115	
+Coffee	Mocha Iced Coffee	1 order (661 g)	200	8	1	125	
+Coffee	Caramel Iced Coffee	1 order (672 g)	260	8	0	190	
+Dipping Sauces	Honey Roasted BBQ Sauce	1 order (12 g)	60	0	0	75	
+Dipping Sauces	Zesty Buffalo Sauce	1 order (21 g)	25	0	0	570	
+Dipping Sauces	Sweet & Spicy Sriracha Sauce	1 order (28 g)	45	0	0	380	
+Dipping Sauces	Polynesian Sauce	1 order (28 g)	110	0	0	210	
+Dipping Sauces	Honey Mustard Sauce	1 order (28 g)	50	0	0	160	
+Dipping Sauces	Garden Herb Ranch Sauce	1 order (21 g)	100	0	0	170	
+Dipping Sauces	Chick-fil-A Sauce	1 order (28 g)	140	0	0	170	
+Dipping Sauces	Barbeque Sauce	1 order (28 g)	45	0	0	200	
+Dipping Sauces	Classic Syrup	1 order (23 g)	60	0	0	0	
+Dressings	Zesty Apple Cider Vinaigrette Dressing	1 order (56 g)	230	0	0	450	
+Dressings	Light Italian Dressing	1 order (57 g)	25	0	0	470	
+Dressings	Light Balsamic Vinaigrette Dressing	1 order (57 g)	80	0	0	360	
+Dressings	Garden Herb Ranch Dressing	1 order (57 g)	280	1	0	440	
+Dressings	Fat-Free Honey Mustard Dressing	1 order (57 g)	90	0	1	330	
+Dressings	Creamy Salsa Dressing	1 order (57 g)	290	1	0	630	
+Dressings	Avocado Lime Ranch Dressing	1 order (57 g)	310	1	1	520	
+Buns	Multigrain Brioche Bun	1 order (71 g)	210	7	3	310	
+Buns	Buttery White Bun	1 order (60 g)	180	5	1	240	
+Buns	Gluten Free Bun	1 order (79 g)	180	3	2	400	
+Buns	White Bun (Unbuttered)	1 order (54 g)	150	5	1	240	
+Proteins	Chick-fil-A Filet	1 order (115 g)	250	24	0	1120	
+Proteins	Spicy Filet	1 order (120 g)	280	23	1	1390	
+Proteins	Grilled Filet	1 order (84 g)	110	21	0	370	
+Proteins	Spicy Breakfast Filet	1 order (71 g)	150	15	1	810	
+Proteins	Chick-fil-A Breakfast Filet	1 order (71 g)	160	15	0	750	
+Proteins	Grilled Breakfast Filet	1 order (50 g)	60	13	0	420	
+Proteins	Sausage	1 order (57 g)	240	11	0	430	
+Proteins	Bacon	1 order (10 g)	50	4	0	210	
+Salad Toppings	Roasted Nut Blend	1 order (10 g)	70	1	1	0	
+Salad Toppings	Seasoned Tortilla Strips	1 order (14 g)	70	1	1	55	
+Salad Toppings	Harvest Nut Granola	1 order (14 g)	70	1	0	35	
+Salad Toppings	Crispy Bell Peppers	1 order (14 g)	80	1	0	75	
+Salad Toppings	Chili Lime Pepitas	1 order (14 g)	80	4	1	50	
+Salad Toppings	Blue Cheese Crumbles	1 order (9 g)	30	2	0	110	
+Sandwich Toppings	Pepper Jack Cheese	1 order (21 g)	80	4	0	140	
+Sandwich Toppings	Colby Jack Cheese	1 order (21 g)	80	5	0	140	
+Sandwich Toppings	American Cheese	1 order (14 g)	50	3	0	230	
+Sandwich Toppings	Tomato	1 order (30 g)	5	0	0	0	
+Sandwich Toppings	Lettuce	1 order (20 g)	5	0	0	5	
+Soup Toppings	Saltines	1 order (12 g)	50	1	0	180	
